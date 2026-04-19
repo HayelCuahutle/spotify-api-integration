@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>🔍 DIAGNÓSTICO COMPLETO</title>
+    <style>
+        body { font-family: monospace; padding: 20px; background: #1a1a1a; color: #fff; }
+        .success { color: #0f0; }
+        .error { color: #f00; }
+        .warning { color: #ff0; }
+        button { background: #1DB954; color: #000; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; margin: 5px; font-size: 16px; }
+        button:hover { background: #1ed760; }
+        pre { background: #333; padding: 10px; border-radius: 5px; overflow: auto; }
+        .step { border-left: 3px solid #1DB954; padding: 10px; margin: 10px 0; background: #2a2a2a; }
+        .step-error { border-left: 3px solid #f00; }
+    </style>
+</head>
+<body>
+    <h1>🔧 DIAGNÓSTICO DE CONEXIÓN BUSCADOR → ADDTOPLAYLIST</h1>
+    
+    <div style="margin: 20px 0;">
+        <button onclick="testSimple()">1️⃣ Prueba Simple</button>
+        <button onclick="testConDatosReales()">2️⃣ Prueba con Datos Reales</button>
+        <button onclick="testSinCredentials()">3️⃣ Prueba SIN credentials</button>
+        <button onclick="testConCredentials()">4️⃣ Prueba CON credentials</button>
+        <button onclick="verificarSession()">5️⃣ Verificar Sesión</button>
+        <button onclick="limpiarLogs()">🗑️ Limpiar Logs</button>
+    </div>
+    
+    <div id="resultado" style="margin-top: 20px;">
+        <h2>Resultados:</h2>
+        <div id="output"></div>
+    </div>
+    
+    <script>
+    function log(mensaje, tipo = 'info') {
+        const output = document.getElementById('output');
+        const div = document.createElement('div');
+        div.className = tipo === 'error' ? 'step-error' : 'step';
+        div.innerHTML = mensaje;
+        output.appendChild(div);
+    }
+    
+    function limpiarLogs() {
+        document.getElementById('output').innerHTML = '';
+        log('🧹 Logs limpiados');
+    }
+    
+    async function testSimple() {
+        limpiarLogs();
+        log('📤 Enviando prueba simple...');
+        
+        const formData = new URLSearchParams();
+        formData.append('trackUri', 'spotify:track:4cOdK2wGLETKBW3PvgPWqT');
+        formData.append('trackName', 'Canción de Prueba');
+        formData.append('trackArtist', 'Artista Test');
+        formData.append('userEmail', 'test@diagnostico.com');
+        
+        log('📦 Datos enviados:');
+        log('<pre>' + JSON.stringify(Object.fromEntries(formData), null, 2) + '</pre>');
+        
+        try {
+            const res = await fetch('addToPlaylist.php', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/x-www-form-urlencoded',
+                },
+                body: formData.toString()
+            });
+            
+            log('📥 Status: ' + res.status + ' ' + res.statusText);
+            
+            const text = await res.text();
+            log('📥 Respuesta RAW:');
+            log('<pre>' + text + '</pre>');
+            
+            try {
+                const data = JSON.parse(text);
+                log('📥 JSON parseado:');
+                log('<pre>' + JSON.stringify(data, null, 2) + '</pre>');
+                
+                if (data.success) {
+                    log('✅ ÉXITO: ' + (data.message || 'OK'), 'success');
+                } else {
+                    log('❌ ERROR: ' + (data.message || 'Desconocido'), 'error');
+                }
+            } catch(e) {
+                log('❌ No es JSON válido: ' + e.message, 'error');
+            }
+        } catch(err) {
+            log('❌ Error de red: ' + err.message, 'error');
+        }
+    }
+    
+    async function testConDatosReales() {
+        limpiarLogs();
+        log('📤 Enviando con datos reales del buscador...');
+        
+        // Simular lo que envía tu buscador
+        const trackReal = {
+            uri: 'spotify:track:4cOdK2wGLETKBW3PvgPWqT',
+            name: 'Blinding Lights',
+            artist: 'The Weeknd'
+        };
+        
+        const formData = new URLSearchParams();
+        formData.append('trackUri', trackReal.uri);
+        formData.append('trackName', trackReal.name);
+        formData.append('trackArtist', trackReal.artist);
+        formData.append('userEmail', localStorage.getItem('userEmail') || 'test@local.com');
+        
+        log('📦 Datos:');
+        log('<pre>' + JSON.stringify(Object.fromEntries(formData), null, 2) + '</pre>');
+        
+        try {
+            const res = await fetch('addToPlaylist.php', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/x-www-form-urlencoded',
+                },
+                body: formData.toString()
+            });
+            
+            const data = await res.json();
+            log('📥 Respuesta:');
+            log('<pre>' + JSON.stringify(data, null, 2) + '</pre>');
+            
+            if (data.success) {
+                log('✅ ÉXITO', 'success');
+            } else {
+                log('❌ ERROR', 'error');
+            }
+        } catch(err) {
+            log('❌ Error: ' + err.message, 'error');
+        }
+    }
+    
+    async function testSinCredentials() {
+        limpiarLogs();
+        log('📤 Prueba SIN credentials...');
+        
+        const formData = new URLSearchParams();
+        formData.append('trackUri', 'spotify:track:4cOdK2wGLETKBW3PvgPWqT');
+        formData.append('trackName', 'Test');
+        formData.append('trackArtist', 'Test');
+        formData.append('userEmail', 'test@test.com');
+        
+        try {
+            const res = await fetch('addToPlaylist.php', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/x-www-form-urlencoded',
+                },
+                body: formData.toString()
+                // SIN credentials: 'include'
+            });
+            
+            const data = await res.json();
+            log('📥 Respuesta:');
+            log('<pre>' + JSON.stringify(data, null, 2) + '</pre>');
+        } catch(err) {
+            log('❌ Error: ' + err.message, 'error');
+        }
+    }
+    
+    async function testConCredentials() {
+        limpiarLogs();
+        log('📤 Prueba CON credentials...');
+        
+        const formData = new URLSearchParams();
+        formData.append('trackUri', 'spotify:track:4cOdK2wGLETKBW3PvgPWqT');
+        formData.append('trackName', 'Test');
+        formData.append('trackArtist', 'Test');
+        formData.append('userEmail', 'test@test.com');
+        
+        try {
+            const res = await fetch('addToPlaylist.php', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/x-www-form-urlencoded',
+                },
+                body: formData.toString(),
+                credentials: 'include' // CON credentials
+            });
+            
+            const data = await res.json();
+            log('📥 Respuesta:');
+            log('<pre>' + JSON.stringify(data, null, 2) + '</pre>');
+        } catch(err) {
+            log('❌ Error: ' + err.message, 'error');
+        }
+    }
+    
+    async function verificarSession() {
+        limpiarLogs();
+        log('🔍 Verificando sesión actual...');
+        
+        log('localStorage:');
+        for(let i = 0; i < localStorage.length; i++) {
+            let key = localStorage.key(i);
+            log(`  ${key}: ${localStorage.getItem(key)}`);
+        }
+        
+        log('Cookies: ' + document.cookie);
+        
+        // Intentar obtener email de la sesión
+        try {
+            const res = await fetch('check_session.php');
+            const data = await res.json();
+            log('Sesión PHP: ' + JSON.stringify(data));
+        } catch(err) {
+            log('Error verificando sesión: ' + err.message);
+        }
+    }
+    </script>
+</body>
+</html>

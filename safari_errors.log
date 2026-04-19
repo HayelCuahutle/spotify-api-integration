@@ -1,0 +1,30 @@
+[23-Jan-2026 16:31:50 UTC] Safari Debug - User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+[23-Jan-2026 16:31:50 UTC] Safari Debug - POST data: {"trackUri":"spotify:track:0Ot6e3wYVQQ1Us9PM977jE","trackName":"A Little Death","trackArtist":"The Neighbourhood","userEmail":"Dante@mxtopografia.com"}
+[23-Jan-2026 16:31:50 UTC] Safari Debug - Cookies: {"user_fingerprint":"e4bf06509c5ea50f415a84b58e277a79","PHPSESSID":"6jalhtg2qitg5f99db1fj4p6m8"}
+[23-Jan-2026 16:31:50 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /var/www/vhosts/tlaxcalitabeach.com/httpdocs/rating/addToPlaylist.php on line 21
+[23-Jan-2026 16:31:50 UTC] DEBUG: Modo DJ activo = 0
+[23-Jan-2026 16:31:50 UTC] DEBUG MODE DJ: Datos recibidos - trackUri: spotify:track:0Ot6e3wYVQQ1Us9PM977jE, email: Dante@mxtopografia.com, DJ activo: 0
+[23-Jan-2026 16:32:27 UTC] Safari Debug - User Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1
+[23-Jan-2026 16:32:27 UTC] Safari Debug - POST data: {"trackUri":"spotify:track:0Jlcvv8IykzHaSmj49uNW8","trackName":"the 1","trackArtist":"Taylor Swift","userEmail":""}
+[23-Jan-2026 16:32:27 UTC] Safari Debug - Cookies: {"PHPSESSID":"j8beio4t6sv7l75sd7s21shs57"}
+[23-Jan-2026 16:32:27 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /var/www/vhosts/tlaxcalitabeach.com/httpdocs/rating/addToPlaylist.php on line 21
+[23-Jan-2026 16:32:27 UTC] DEBUG: Modo DJ activo = 0
+[23-Jan-2026 16:32:27 UTC] DEBUG MODE DJ: Datos recibidos - trackUri: spotify:track:0Jlcvv8IykzHaSmj49uNW8, email: , DJ activo: 0
+[23-Jan-2026 16:32:39 UTC] Safari Debug - User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+[23-Jan-2026 16:32:39 UTC] Safari Debug - POST data: {"trackUri":"spotify:track:0Ot6e3wYVQQ1Us9PM977jE","trackName":"A Little Death","trackArtist":"The Neighbourhood","userEmail":"Dante@mxtopografia.com"}
+[23-Jan-2026 16:32:39 UTC] Safari Debug - Cookies: {"user_fingerprint":"e4bf06509c5ea50f415a84b58e277a79","PHPSESSID":"6jalhtg2qitg5f99db1fj4p6m8"}
+[23-Jan-2026 16:32:39 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /var/www/vhosts/tlaxcalitabeach.com/httpdocs/rating/addToPlaylist.php on line 21
+[23-Jan-2026 16:32:39 UTC] DEBUG: Modo DJ activo = 0
+[23-Jan-2026 16:32:39 UTC] DEBUG MODE DJ: Datos recibidos - trackUri: spotify:track:0Ot6e3wYVQQ1Us9PM977jE, email: Dante@mxtopografia.com, DJ activo: 0
+[23-Jan-2026 16:32:42 UTC] Safari Debug - User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+[23-Jan-2026 16:32:42 UTC] Safari Debug - POST data: {"trackUri":"spotify:track:0YNtAadZvKBBEFARtfoCV8","trackName":"Compass","trackArtist":"The Neighbourhood","userEmail":"Dante@mxtopografia.com"}
+[23-Jan-2026 16:32:42 UTC] Safari Debug - Cookies: {"user_fingerprint":"e4bf06509c5ea50f415a84b58e277a79","PHPSESSID":"6jalhtg2qitg5f99db1fj4p6m8"}
+[23-Jan-2026 16:32:42 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /var/www/vhosts/tlaxcalitabeach.com/httpdocs/rating/addToPlaylist.php on line 21
+[23-Jan-2026 16:32:42 UTC] DEBUG: Modo DJ activo = 0
+[23-Jan-2026 16:32:42 UTC] DEBUG MODE DJ: Datos recibidos - trackUri: spotify:track:0YNtAadZvKBBEFARtfoCV8, email: Dante@mxtopografia.com, DJ activo: 0
+[23-Jan-2026 16:32:43 UTC] Safari Debug - User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+[23-Jan-2026 16:32:43 UTC] Safari Debug - POST data: {"trackUri":"spotify:track:0Ot6e3wYVQQ1Us9PM977jE","trackName":"A Little Death","trackArtist":"The Neighbourhood","userEmail":"Dante@mxtopografia.com"}
+[23-Jan-2026 16:32:43 UTC] Safari Debug - Cookies: {"user_fingerprint":"e4bf06509c5ea50f415a84b58e277a79","PHPSESSID":"6jalhtg2qitg5f99db1fj4p6m8"}
+[23-Jan-2026 16:32:43 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /var/www/vhosts/tlaxcalitabeach.com/httpdocs/rating/addToPlaylist.php on line 21
+[23-Jan-2026 16:32:43 UTC] DEBUG: Modo DJ activo = 0
+[23-Jan-2026 16:32:43 UTC] DEBUG MODE DJ: Datos recibidos - trackUri: spotify:track:0Ot6e3wYVQQ1Us9PM977jE, email: Dante@mxtopografia.com, DJ activo: 0

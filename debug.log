@@ -1,0 +1,65 @@
+[2026-01-14 16:59:53] Script iniciado
+[2026-01-14 17:00:06] Script iniciado
+[2026-01-14 17:00:09] Script iniciado
+[2026-01-14 17:00:09] Script iniciado
+[2026-01-14 17:00:19] Script iniciado
+[2026-01-14 17:00:31] Script iniciado
+[2026-01-14 17:00:36] Script iniciado
+[2026-01-14 17:03:09] Script iniciado
+[2026-01-14 17:03:20] Script iniciado
+[2026-01-14 17:03:23] Script iniciado
+[2026-01-14 17:03:23] Script iniciado
+[2026-01-14 17:03:31] Script iniciado
+[2026-01-14 17:03:31] Script iniciado
+[2026-01-14 17:03:38] Script iniciado
+[2026-01-14 17:03:48] Script iniciado
+[2026-01-14 17:03:55] Script iniciado
+[2026-01-14 17:03:55] Script iniciado
+[2026-01-14 17:04:09] Script iniciado
+[2026-01-14 17:05:01] Script iniciado
+[2026-01-14 17:06:12] Script iniciado
+[2026-01-14 17:06:20] Script iniciado
+[2026-01-14 17:06:23] Script iniciado
+[2026-01-14 17:06:23] Script iniciado
+[2026-01-14 17:06:31] Script iniciado
+[2026-01-14 17:07:27] Script iniciado
+[2026-01-14 17:07:30] Script iniciado
+[2026-01-14 17:07:30] Script iniciado
+[2026-01-14 17:07:37] Script iniciado
+[2026-01-14 17:08:19] Script iniciado
+[08-Feb-2026 00:29:29 UTC] === NEW REQUEST ===
+[08-Feb-2026 00:29:29 UTC] POST Data: Array
+(
+    [trackUri] => spotify:track:2ISSQPb9LHHiV6ng2NXosL
+    [trackName] => Beautiful Now
+    [trackArtist] => Zedd, Jon Bellion
+    [userEmail] => 
+)
+
+[08-Feb-2026 00:29:29 UTC] Session ID: 
+[08-Feb-2026 00:29:29 UTC] User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+[08-Feb-2026 00:29:29 UTC] IP: 189.167.2.221
+[08-Feb-2026 00:29:31 UTC] === NEW REQUEST ===
+[08-Feb-2026 00:29:31 UTC] POST Data: Array
+(
+    [trackUri] => spotify:track:2ISSQPb9LHHiV6ng2NXosL
+    [trackName] => Beautiful Now
+    [trackArtist] => Zedd, Jon Bellion
+    [userEmail] => 
+)
+
+[08-Feb-2026 00:29:31 UTC] Session ID: 
+[08-Feb-2026 00:29:31 UTC] User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+[08-Feb-2026 00:29:31 UTC] IP: 189.167.2.221
+[08-Feb-2026 00:29:32 UTC] === NEW REQUEST ===
+[08-Feb-2026 00:29:32 UTC] POST Data: Array
+(
+    [trackUri] => spotify:track:2ISSQPb9LHHiV6ng2NXosL
+    [trackName] => Beautiful Now
+    [trackArtist] => Zedd, Jon Bellion
+    [userEmail] => 
+)
+
+[08-Feb-2026 00:29:32 UTC] Session ID: 
+[08-Feb-2026 00:29:32 UTC] User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+[08-Feb-2026 00:29:32 UTC] IP: 189.167.2.221

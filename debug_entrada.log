@@ -1,0 +1,407 @@
+
+2026-02-18 21:12:57 ========== NUEVA PETICIÓN ==========
+MÉTODO: POST
+HEADERS: Array
+(
+    [Cookie] => user_fingerprint=huella_0460388effc11ada8f8e0c362a16cefe92724aeeb91c7263506c4fab1216ca1f; PHPSESSID=vitrj0i5ipo4sjekkru9kld4ot
+    [Priority] => u=1, i
+    [Accept-Language] => es-419,es;q=0.9
+    [Accept-Encoding] => gzip, deflate, br, zstd
+    [Referer] => https://tlaxcalitabeach.com/rating/test_minimo.html
+    [Sec-Fetch-Dest] => empty
+    [Sec-Fetch-Mode] => cors
+    [Sec-Fetch-Site] => same-origin
+    [Origin] => https://tlaxcalitabeach.com
+    [Accept] => */*
+    [Sec-Ch-Ua-Mobile] => ?0
+    [Content-Type] => application/x-www-form-urlencoded
+    [Sec-Ch-Ua] => "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"
+    [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+    [Sec-Ch-Ua-Platform] => "Windows"
+    [Content-Length] => 133
+    [Connection] => close
+    [X-Accel-Internal] => /internal-nginx-static-location
+    [X-Real-Ip] => 189.167.15.43
+    [Host] => tlaxcalitabeach.com
+)
+
+POST: Array
+(
+    [trackUri] => spotify:track:4cOdK2wGLETKBW3PvgPWqT
+    [trackName] => Blinding Lights
+    [trackArtist] => The Weeknd
+    [userEmail] => Dante@mxtopografia.com
+)
+
+RAW INPUT: trackUri=spotify%3Atrack%3A4cOdK2wGLETKBW3PvgPWqT&trackName=Blinding+Lights&trackArtist=The+Weeknd&userEmail=Dante%40mxtopografia.com
+SESSION: 
+
+2026-02-18 21:15:04 ========== NUEVA PETICIÓN ==========
+MÉTODO: POST
+HEADERS: Array
+(
+    [Cookie] => user_fingerprint=huella_0460388effc11ada8f8e0c362a16cefe92724aeeb91c7263506c4fab1216ca1f; PHPSESSID=vitrj0i5ipo4sjekkru9kld4ot
+    [Priority] => u=1, i
+    [Accept-Language] => es-419,es;q=0.9
+    [Accept-Encoding] => gzip, deflate, br, zstd
+    [Referer] => https://tlaxcalitabeach.com/rating/test_minimo.html
+    [Sec-Fetch-Dest] => empty
+    [Sec-Fetch-Mode] => cors
+    [Sec-Fetch-Site] => same-origin
+    [Origin] => https://tlaxcalitabeach.com
+    [Accept] => */*
+    [Sec-Ch-Ua-Mobile] => ?0
+    [Content-Type] => application/x-www-form-urlencoded
+    [Sec-Ch-Ua] => "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"
+    [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+    [Sec-Ch-Ua-Platform] => "Windows"
+    [Content-Length] => 133
+    [Connection] => close
+    [X-Accel-Internal] => /internal-nginx-static-location
+    [X-Real-Ip] => 189.167.15.43
+    [Host] => tlaxcalitabeach.com
+)
+
+POST: Array
+(
+    [trackUri] => spotify:track:4cOdK2wGLETKBW3PvgPWqT
+    [trackName] => Blinding Lights
+    [trackArtist] => The Weeknd
+    [userEmail] => Dante@mxtopografia.com
+)
+
+RAW INPUT: trackUri=spotify%3Atrack%3A4cOdK2wGLETKBW3PvgPWqT&trackName=Blinding+Lights&trackArtist=The+Weeknd&userEmail=Dante%40mxtopografia.com
+SESSION: 
+
+2026-02-18 21:15:52 ========== NUEVA PETICIÓN ==========
+MÉTODO: POST
+HEADERS: Array
+(
+    [Cookie] => user_fingerprint=huella_0460388effc11ada8f8e0c362a16cefe92724aeeb91c7263506c4fab1216ca1f; PHPSESSID=vitrj0i5ipo4sjekkru9kld4ot
+    [Priority] => u=1, i
+    [Accept-Language] => es-419,es;q=0.9
+    [Accept-Encoding] => gzip, deflate, br, zstd
+    [Referer] => https://tlaxcalitabeach.com/rating/buscador.php
+    [Sec-Fetch-Dest] => empty
+    [Sec-Fetch-Mode] => cors
+    [Sec-Fetch-Site] => same-origin
+    [Origin] => https://tlaxcalitabeach.com
+    [Accept] => */*
+    [Sec-Ch-Ua-Mobile] => ?0
+    [Content-Type] => application/x-www-form-urlencoded
+    [Sec-Ch-Ua] => "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"
+    [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+    [Sec-Ch-Ua-Platform] => "Windows"
+    [Content-Length] => 117
+    [Connection] => close
+    [X-Accel-Internal] => /internal-nginx-static-location
+    [X-Real-Ip] => 189.167.15.43
+    [Host] => tlaxcalitabeach.com
+)
+
+POST: Array
+(
+    [trackUri] => spotify:track:6BAnxKyld909yo6Pk1DO3r
+    [trackName] => Hello
+    [trackArtist] => OMFG
+    [userEmail] => Dante@mxtopografia.com
+)
+
+RAW INPUT: trackUri=spotify%3Atrack%3A6BAnxKyld909yo6Pk1DO3r&trackName=Hello&trackArtist=OMFG&userEmail=Dante%40mxtopografia.com
+SESSION: 
+
+2026-02-18 21:16:37 ========== NUEVA PETICIÓN ==========
+MÉTODO: POST
+HEADERS: Array
+(
+    [Cookie] => user_fingerprint=huella_0460388effc11ada8f8e0c362a16cefe92724aeeb91c7263506c4fab1216ca1f; PHPSESSID=vitrj0i5ipo4sjekkru9kld4ot
+    [Priority] => u=1, i
+    [Accept-Language] => es-419,es;q=0.9
+    [Accept-Encoding] => gzip, deflate, br, zstd
+    [Referer] => https://tlaxcalitabeach.com/rating/test_minimo.html
+    [Sec-Fetch-Dest] => empty
+    [Sec-Fetch-Mode] => cors
+    [Sec-Fetch-Site] => same-origin
+    [Origin] => https://tlaxcalitabeach.com
+    [Accept] => */*
+    [Sec-Ch-Ua-Mobile] => ?0
+    [Content-Type] => application/x-www-form-urlencoded
+    [Sec-Ch-Ua] => "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"
+    [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+    [Sec-Ch-Ua-Platform] => "Windows"
+    [Content-Length] => 133
+    [Connection] => close
+    [X-Accel-Internal] => /internal-nginx-static-location
+    [X-Real-Ip] => 189.167.15.43
+    [Host] => tlaxcalitabeach.com
+)
+
+POST: Array
+(
+    [trackUri] => spotify:track:4cOdK2wGLETKBW3PvgPWqT
+    [trackName] => Blinding Lights
+    [trackArtist] => The Weeknd
+    [userEmail] => Dante@mxtopografia.com
+)
+
+RAW INPUT: trackUri=spotify%3Atrack%3A4cOdK2wGLETKBW3PvgPWqT&trackName=Blinding+Lights&trackArtist=The+Weeknd&userEmail=Dante%40mxtopografia.com
+SESSION: 
+
+2026-02-18 21:17:15 ========== NUEVA PETICIÓN ==========
+MÉTODO: POST
+HEADERS: Array
+(
+    [Cookie] => user_fingerprint=huella_0460388effc11ada8f8e0c362a16cefe92724aeeb91c7263506c4fab1216ca1f; PHPSESSID=vitrj0i5ipo4sjekkru9kld4ot
+    [Priority] => u=1, i
+    [Accept-Language] => es-419,es;q=0.9
+    [Accept-Encoding] => gzip, deflate, br, zstd
+    [Referer] => https://tlaxcalitabeach.com/rating/buscador.php
+    [Sec-Fetch-Dest] => empty
+    [Sec-Fetch-Mode] => cors
+    [Sec-Fetch-Site] => same-origin
+    [Origin] => https://tlaxcalitabeach.com
+    [Accept] => */*
+    [Sec-Ch-Ua-Mobile] => ?0
+    [Content-Type] => application/x-www-form-urlencoded
+    [Sec-Ch-Ua] => "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"
+    [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+    [Sec-Ch-Ua-Platform] => "Windows"
+    [Content-Length] => 120
+    [Connection] => close
+    [X-Accel-Internal] => /internal-nginx-static-location
+    [X-Real-Ip] => 189.167.15.43
+    [Host] => tlaxcalitabeach.com
+)
+
+POST: Array
+(
+    [trackUri] => spotify:track:1HM9uVbB4DVQh0QlwY7W6v
+    [trackName] => Azul
+    [trackArtist] => Zoé
+    [userEmail] => Dante@mxtopografia.com
+)
+
+RAW INPUT: trackUri=spotify%3Atrack%3A1HM9uVbB4DVQh0QlwY7W6v&trackName=Azul&trackArtist=Zo%C3%A9&userEmail=Dante%40mxtopografia.com
+SESSION: 
+
+2026-02-18 21:22:02 ========== NUEVA PETICIÓN ==========
+MÉTODO: POST
+HEADERS: Array
+(
+    [Cookie] => user_fingerprint=huella_0460388effc11ada8f8e0c362a16cefe92724aeeb91c7263506c4fab1216ca1f; PHPSESSID=vitrj0i5ipo4sjekkru9kld4ot
+    [Priority] => u=1, i
+    [Accept-Language] => es-419,es;q=0.9
+    [Accept-Encoding] => gzip, deflate, br, zstd
+    [Referer] => https://tlaxcalitabeach.com/rating/buscador.php
+    [Sec-Fetch-Dest] => empty
+    [Sec-Fetch-Mode] => cors
+    [Sec-Fetch-Site] => same-origin
+    [Origin] => https://tlaxcalitabeach.com
+    [Accept] => */*
+    [Sec-Ch-Ua-Mobile] => ?0
+    [Content-Type] => application/x-www-form-urlencoded
+    [Sec-Ch-Ua] => "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"
+    [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+    [Sec-Ch-Ua-Platform] => "Windows"
+    [Content-Length] => 129
+    [Connection] => close
+    [X-Accel-Internal] => /internal-nginx-static-location
+    [X-Real-Ip] => 189.167.15.43
+    [Host] => tlaxcalitabeach.com
+)
+
+POST: Array
+(
+    [trackUri] => spotify:track:2JJSGhPpATm8lXeYjD95fw
+    [trackName] => Desvelado
+    [trackArtist] => Bobby Pulido
+    [userEmail] => Dante@mxtopografia.com
+)
+
+RAW INPUT: trackUri=spotify%3Atrack%3A2JJSGhPpATm8lXeYjD95fw&trackName=Desvelado&trackArtist=Bobby+Pulido&userEmail=Dante%40mxtopografia.com
+SESSION: 
+
+2026-02-18 21:23:35 ========== NUEVA PETICIÓN ==========
+MÉTODO: POST
+HEADERS: Array
+(
+    [Cookie] => user_fingerprint=huella_0460388effc11ada8f8e0c362a16cefe92724aeeb91c7263506c4fab1216ca1f; PHPSESSID=vitrj0i5ipo4sjekkru9kld4ot
+    [Priority] => u=1, i
+    [Accept-Language] => es-419,es;q=0.9
+    [Accept-Encoding] => gzip, deflate, br, zstd
+    [Referer] => https://tlaxcalitabeach.com/rating/test_minimo.html
+    [Sec-Fetch-Dest] => empty
+    [Sec-Fetch-Mode] => cors
+    [Sec-Fetch-Site] => same-origin
+    [Origin] => https://tlaxcalitabeach.com
+    [Accept] => */*
+    [Sec-Ch-Ua-Mobile] => ?0
+    [Content-Type] => application/x-www-form-urlencoded
+    [Sec-Ch-Ua] => "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"
+    [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+    [Sec-Ch-Ua-Platform] => "Windows"
+    [Content-Length] => 133
+    [Connection] => close
+    [X-Accel-Internal] => /internal-nginx-static-location
+    [X-Real-Ip] => 189.167.15.43
+    [Host] => tlaxcalitabeach.com
+)
+
+POST: Array
+(
+    [trackUri] => spotify:track:4cOdK2wGLETKBW3PvgPWqT
+    [trackName] => Blinding Lights
+    [trackArtist] => The Weeknd
+    [userEmail] => Dante@mxtopografia.com
+)
+
+RAW INPUT: trackUri=spotify%3Atrack%3A4cOdK2wGLETKBW3PvgPWqT&trackName=Blinding+Lights&trackArtist=The+Weeknd&userEmail=Dante%40mxtopografia.com
+SESSION: 
+
+2026-02-18 21:24:11 ========== NUEVA PETICIÓN ==========
+MÉTODO: POST
+HEADERS: Array
+(
+    [Cookie] => user_fingerprint=huella_0460388effc11ada8f8e0c362a16cefe92724aeeb91c7263506c4fab1216ca1f; PHPSESSID=vitrj0i5ipo4sjekkru9kld4ot
+    [Priority] => u=1, i
+    [Accept-Language] => es-419,es;q=0.9
+    [Accept-Encoding] => gzip, deflate, br, zstd
+    [Referer] => https://tlaxcalitabeach.com/rating/buscador.php
+    [Sec-Fetch-Dest] => empty
+    [Sec-Fetch-Mode] => cors
+    [Sec-Fetch-Site] => same-origin
+    [Origin] => https://tlaxcalitabeach.com
+    [Accept] => */*
+    [Sec-Ch-Ua-Mobile] => ?0
+    [Content-Type] => application/x-www-form-urlencoded
+    [Sec-Ch-Ua] => "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"
+    [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+    [Sec-Ch-Ua-Platform] => "Windows"
+    [Content-Length] => 154
+    [Connection] => close
+    [X-Accel-Internal] => /internal-nginx-static-location
+    [X-Real-Ip] => 189.167.15.43
+    [Host] => tlaxcalitabeach.com
+)
+
+POST: Array
+(
+    [trackUri] => spotify:track:0pYacDCZuRhcrwGUA5nTBe
+    [trackName] => eight(Prod.&Feat. SUGA of BTS)
+    [trackArtist] => IU, SUGA
+    [userEmail] => Dante@mxtopografia.com
+)
+
+RAW INPUT: trackUri=spotify%3Atrack%3A0pYacDCZuRhcrwGUA5nTBe&trackName=eight%28Prod.%26Feat.+SUGA+of+BTS%29&trackArtist=IU%2C+SUGA&userEmail=Dante%40mxtopografia.com
+SESSION: 
+
+2026-02-18 21:49:14 ========== NUEVA PETICIÓN ==========
+MÉTODO: POST
+HEADERS: Array
+(
+    [Cookie] => user_fingerprint=huella_0460388effc11ada8f8e0c362a16cefe92724aeeb91c7263506c4fab1216ca1f; PHPSESSID=vitrj0i5ipo4sjekkru9kld4ot
+    [Priority] => u=1, i
+    [Accept-Language] => es-419,es;q=0.9
+    [Accept-Encoding] => gzip, deflate, br, zstd
+    [Referer] => https://tlaxcalitabeach.com/rating/buscador.php
+    [Sec-Fetch-Dest] => empty
+    [Sec-Fetch-Mode] => cors
+    [Sec-Fetch-Site] => same-origin
+    [Origin] => https://tlaxcalitabeach.com
+    [Accept] => */*
+    [Sec-Ch-Ua-Mobile] => ?0
+    [Content-Type] => application/x-www-form-urlencoded
+    [Sec-Ch-Ua] => "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"
+    [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+    [Sec-Ch-Ua-Platform] => "Windows"
+    [Content-Length] => 150
+    [Connection] => close
+    [X-Accel-Internal] => /internal-nginx-static-location
+    [X-Real-Ip] => 189.167.15.43
+    [Host] => tlaxcalitabeach.com
+)
+
+POST: Array
+(
+    [trackUri] => spotify:track:6i7IXg8j7ZngiEOgBYjkhw
+    [trackName] => Sweating Bullets - Remastered 2004
+    [trackArtist] => Megadeth
+    [userEmail] => Dante@mxtopografia.com
+)
+
+RAW INPUT: trackUri=spotify%3Atrack%3A6i7IXg8j7ZngiEOgBYjkhw&trackName=Sweating+Bullets+-+Remastered+2004&trackArtist=Megadeth&userEmail=Dante%40mxtopografia.com
+SESSION: 
+
+2026-02-18 21:50:49 ========== NUEVA PETICIÓN ==========
+MÉTODO: POST
+HEADERS: Array
+(
+    [Cookie] => user_fingerprint=huella_0460388effc11ada8f8e0c362a16cefe92724aeeb91c7263506c4fab1216ca1f; PHPSESSID=vitrj0i5ipo4sjekkru9kld4ot
+    [Priority] => u=1, i
+    [Accept-Language] => es-419,es;q=0.9
+    [Accept-Encoding] => gzip, deflate, br, zstd
+    [Referer] => https://tlaxcalitabeach.com/rating/buscador.php
+    [Sec-Fetch-Dest] => empty
+    [Sec-Fetch-Mode] => cors
+    [Sec-Fetch-Site] => same-origin
+    [Origin] => https://tlaxcalitabeach.com
+    [Accept] => */*
+    [Sec-Ch-Ua-Mobile] => ?0
+    [Content-Type] => application/x-www-form-urlencoded
+    [Sec-Ch-Ua] => "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"
+    [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+    [Sec-Ch-Ua-Platform] => "Windows"
+    [Content-Length] => 143
+    [Connection] => close
+    [X-Accel-Internal] => /internal-nginx-static-location
+    [X-Real-Ip] => 189.167.15.43
+    [Host] => tlaxcalitabeach.com
+)
+
+POST: Array
+(
+    [trackUri] => spotify:track:1IHWl5LamUGEuP4ozKQSXZ
+    [trackName] => Tití Me Preguntó
+    [trackArtist] => Bad Bunny
+    [userEmail] => Dante@mxtopografia.com
+)
+
+RAW INPUT: trackUri=spotify%3Atrack%3A1IHWl5LamUGEuP4ozKQSXZ&trackName=Tit%C3%AD+Me+Pregunt%C3%B3&trackArtist=Bad+Bunny&userEmail=Dante%40mxtopografia.com
+SESSION: 
+
+2026-02-18 21:55:46 ========== NUEVA PETICIÓN ==========
+MÉTODO: POST
+HEADERS: Array
+(
+    [Cookie] => user_fingerprint=huella_0460388effc11ada8f8e0c362a16cefe92724aeeb91c7263506c4fab1216ca1f; PHPSESSID=vitrj0i5ipo4sjekkru9kld4ot
+    [Priority] => u=1, i
+    [Accept-Language] => es-419,es;q=0.9
+    [Accept-Encoding] => gzip, deflate, br, zstd
+    [Referer] => https://tlaxcalitabeach.com/rating/buscador.php
+    [Sec-Fetch-Dest] => empty
+    [Sec-Fetch-Mode] => cors
+    [Sec-Fetch-Site] => same-origin
+    [Origin] => https://tlaxcalitabeach.com
+    [Accept] => */*
+    [Sec-Ch-Ua-Mobile] => ?0
+    [Content-Type] => application/x-www-form-urlencoded
+    [Sec-Ch-Ua] => "Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"
+    [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+    [Sec-Ch-Ua-Platform] => "Windows"
+    [Content-Length] => 164
+    [Connection] => close
+    [X-Accel-Internal] => /internal-nginx-static-location
+    [X-Real-Ip] => 189.167.15.43
+    [Host] => tlaxcalitabeach.com
+)
+
+POST: Array
+(
+    [trackUri] => spotify:track:0Sr7ssScx54yxdM2ols7nW
+    [trackName] => Q U E V A S H A C E R H O Y ?
+    [trackArtist] => Omar Courtz, De La Rose
+    [userEmail] => Dante@mxtopografia.com
+)
+
+RAW INPUT: trackUri=spotify%3Atrack%3A0Sr7ssScx54yxdM2ols7nW&trackName=Q+U+E+V+A+S+H+A+C+E+R+H+O+Y+%3F&trackArtist=Omar+Courtz%2C+De+La+Rose&userEmail=Dante%40mxtopografia.com
+SESSION: 

@@ -1,0 +1,36 @@
+# .htaccess MÍNIMO Y SEGURO - Para Safari y todos los navegadores
+
+# 1. CORS Básico (funciona en casi todos los servidores)
+Header set Access-Control-Allow-Origin "*"
+Header set Access-Control-Allow-Methods "POST, GET, OPTIONS"
+Header set Access-Control-Allow-Headers "Content-Type"
+
+# 2. Manejar preflight requests para Safari
+RewriteEngine On
+RewriteCond %{REQUEST_METHOD} OPTIONS
+RewriteRule ^(.*)$ $1 [R=200,L]
+
+# 3. Seguridad básica
+Header set X-Content-Type-Options "nosniff"
+Header set X-Frame-Options "SAMEORIGIN"
+
+# 4. Cache control para desarrollo
+Header set Cache-Control "no-cache, no-store, must-revalidate"
+Header set Pragma "no-cache"
+Header set Expires "0"
+
+# 5. Prevenir acceso a archivos sensibles
+<FilesMatch "\.(log|sql|bak|inc|txt)$">
+    Order Allow,Deny
+    Deny from all
+</FilesMatch>
+
+# 6. Comprimir respuestas (si está disponible)
+<IfModule mod_deflate.c>
+    AddOutputFilterByType DEFLATE text/html text/plain text/xml text/css text/javascript application/javascript application/json
+</IfModule>
+
+# 7. Redirección de errores personalizada (opcional)
+ErrorDocument 404 /404.html
+ErrorDocument 500 /500.html
+ErrorDocument 403 /403.html

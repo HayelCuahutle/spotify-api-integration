@@ -1,0 +1,272 @@
+[2026-02-18 20:11:31] ========== INICIO PETICIÓN ==========
+[2026-02-18 20:11:31] MÉTODO: POST
+[2026-02-18 20:11:31] HEADERS: {"Cookie":"user_fingerprint=huella_0460388effc11ada8f8e0c362a16cefe92724aeeb91c7263506c4fab1216ca1f; PHPSESSID=vitrj0i5ipo4sjekkru9kld4ot","Priority":"u=1, i","Accept-Language":"es-419,es;q=0.9","Accept-Encoding":"gzip, deflate, br, zstd","Referer":"https:\/\/tlaxcalitabeach.com\/rating\/buscador.php","Sec-Fetch-Dest":"empty","Sec-Fetch-Mode":"cors","Sec-Fetch-Site":"same-origin","Origin":"https:\/\/tlaxcalitabeach.com","Accept":"*\/*","Sec-Ch-Ua-Mobile":"?0","Content-Type":"application\/x-www-form-urlencoded","Sec-Ch-Ua":"\"Not:A-Brand\";v=\"99\", \"Google Chrome\";v=\"145\", \"Chromium\";v=\"145\"","User-Agent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/145.0.0.0 Safari\/537.36","Sec-Ch-Ua-Platform":"\"Windows\"","Content-Length":"128","Connection":"close","X-Accel-Internal":"\/internal-nginx-static-location","X-Real-Ip":"189.167.15.43","Host":"tlaxcalitabeach.com"}
+[2026-02-18 20:11:31] CONTENT_TYPE: application/x-www-form-urlencoded
+[2026-02-18 20:11:31] POST RAW: trackUri=spotify%3Atrack%3A6GQqZkxwOhXaBRArHoQP9Z&trackName=Me+Equivoqu%C3%A9&trackArtist=CD9&userEmail=Dante%40mxtopografia.com
+[2026-02-18 20:11:31] POST ARRAY: {"trackUri":"spotify:track:6GQqZkxwOhXaBRArHoQP9Z","trackName":"Me Equivoqu\u00e9","trackArtist":"CD9","userEmail":"Dante@mxtopografia.com"}
+[2026-02-18 20:11:31] SESSION ID: vitrj0i5ipo4sjekkru9kld4ot
+[2026-02-18 20:11:31] SESSION DATA: {"user_email":"usuario@directo.com","ubicacion_data":{"lat":19.278573681255462,"lon":-98.2361252654307,"distancia":20.16968478174814,"fecha":"2026-02-18 19:02:13"},"random_mode_active":false,"random_playlist_uri":null,"random_mode_started":null,"ubicacion_ok":true,"ubicacion_timestamp":1771441333}
+[2026-02-18 20:11:31] DATOS EXTRAÍDOS: | {"trackUri":"spotify:track:6GQqZkxwOhXaBRArHoQP9Z","trackName":"Me Equivoqué","trackArtist":"CD9","userEmail":"Dante@mxtopografia.com"}
+[2026-02-18 20:11:31] BD CONECTADA OK
+[2026-02-18 20:11:31] === INICIANDO PROCESAMIENTO ===
+[2026-02-18 20:11:31] 🔑 Solicitando token...
+[2026-02-18 20:11:31] 🔑 Token respuesta - Código: 200
+[2026-02-18 20:11:31] 🔑 Token obtenido OK
+[2026-02-18 20:11:31] 📋 Playlist - Código: 201
+[2026-02-18 20:11:31] ✅ BD ID: 986
+[2026-02-18 20:11:31] RESPUESTA ENVIADA: {"success":true,"message":"Canci\u00f3n agregada correctamente","diagnostico":{"datos_recibidos":{"trackUri":"spotify:track:6GQqZkxwOhXaBRArHoQP9Z","trackName":"Me Equivoqu\u00e9","trackArtist":"CD9","userEmail":"Dante@mxtopografia.com"},"session_id":"vitrj0i5ipo4sjekkru9kld4ot","user_email_session":"usuario@directo.com","timestamp":"2026-02-18 20:11:31"},"data":{"id":986,"nombre":"Me Equivoqu\u00e9","artista":"CD9","hora":"20:11:31","fecha":"2026-02-18"}}
+[2026-02-18 20:21:52] ========== INICIO PETICIÓN ==========
+[2026-02-18 20:21:52] MÉTODO: POST
+[2026-02-18 20:21:52] HEADERS: {"Cookie":"user_fingerprint=huella_0460388effc11ada8f8e0c362a16cefe92724aeeb91c7263506c4fab1216ca1f; PHPSESSID=vitrj0i5ipo4sjekkru9kld4ot","Priority":"u=1, i","Accept-Language":"es-419,es;q=0.9","Accept-Encoding":"gzip, deflate, br, zstd","Referer":"https:\/\/tlaxcalitabeach.com\/rating\/test_diagnostico.html","Sec-Fetch-Dest":"empty","Sec-Fetch-Mode":"cors","Sec-Fetch-Site":"same-origin","Origin":"https:\/\/tlaxcalitabeach.com","Accept":"*\/*","Sec-Ch-Ua-Mobile":"?0","Content-Type":"application\/x-www-form-urlencoded","Sec-Ch-Ua":"\"Not:A-Brand\";v=\"99\", \"Google Chrome\";v=\"145\", \"Chromium\";v=\"145\"","User-Agent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/145.0.0.0 Safari\/537.36","Sec-Ch-Ua-Platform":"\"Windows\"","Content-Length":"146","Connection":"close","X-Accel-Internal":"\/internal-nginx-static-location","X-Real-Ip":"189.167.15.43","Host":"tlaxcalitabeach.com"}
+[2026-02-18 20:21:52] CONTENT_TYPE: application/x-www-form-urlencoded
+[2026-02-18 20:21:52] POST RAW: trackUri=spotify%3Atrack%3A4cOdK2wGLETKBW3PvgPWqT&trackName=Canci%C3%83%C2%B3n+de+Prueba&trackArtist=Artista+Test&userEmail=test%40diagnostico.com
+[2026-02-18 20:21:52] POST ARRAY: {"trackUri":"spotify:track:4cOdK2wGLETKBW3PvgPWqT","trackName":"Canci\u00c3\u00b3n de Prueba","trackArtist":"Artista Test","userEmail":"test@diagnostico.com"}
+[2026-02-18 20:21:52] SESSION ID: vitrj0i5ipo4sjekkru9kld4ot
+[2026-02-18 20:21:52] SESSION DATA: {"user_email":"usuario@directo.com","ubicacion_data":{"lat":19.278573681255462,"lon":-98.2361252654307,"distancia":20.16968478174814,"fecha":"2026-02-18 19:02:13"},"random_mode_active":false,"random_playlist_uri":null,"random_mode_started":null,"ubicacion_ok":true,"ubicacion_timestamp":1771441333}
+[2026-02-18 20:21:52] DATOS EXTRAÍDOS: | {"trackUri":"spotify:track:4cOdK2wGLETKBW3PvgPWqT","trackName":"CanciÃ³n de Prueba","trackArtist":"Artista Test","userEmail":"test@diagnostico.com"}
+[2026-02-18 20:21:52] BD CONECTADA OK
+[2026-02-18 20:21:52] === INICIANDO PROCESAMIENTO ===
+[2026-02-18 20:21:52] 🔑 Solicitando token...
+[2026-02-18 20:21:52] 🔑 Token respuesta - Código: 200
+[2026-02-18 20:21:52] 🔑 Token obtenido OK
+[2026-02-18 20:21:52] 📋 Playlist - Código: 201
+[2026-02-18 20:21:52] ✅ BD ID: 987
+[2026-02-18 20:21:52] RESPUESTA ENVIADA: {"success":true,"message":"Canci\u00f3n agregada correctamente","diagnostico":{"datos_recibidos":{"trackUri":"spotify:track:4cOdK2wGLETKBW3PvgPWqT","trackName":"Canci\u00c3\u00b3n de Prueba","trackArtist":"Artista Test","userEmail":"test@diagnostico.com"},"session_id":"vitrj0i5ipo4sjekkru9kld4ot","user_email_session":"usuario@directo.com","timestamp":"2026-02-18 20:21:52"},"data":{"id":987,"nombre":"Canci\u00c3\u00b3n de Prueba","artista":"Artista Test","hora":"20:21:52","fecha":"2026-02-18"}}
+[2026-02-18 20:22:36] ========== INICIO PETICIÓN ==========
+[2026-02-18 20:22:36] MÉTODO: POST
+[2026-02-18 20:22:36] HEADERS: {"Cookie":"user_fingerprint=huella_0460388effc11ada8f8e0c362a16cefe92724aeeb91c7263506c4fab1216ca1f; PHPSESSID=vitrj0i5ipo4sjekkru9kld4ot","Priority":"u=1, i","Accept-Language":"es-419,es;q=0.9","Accept-Encoding":"gzip, deflate, br, zstd","Referer":"https:\/\/tlaxcalitabeach.com\/rating\/test_diagnostico.html","Sec-Fetch-Dest":"empty","Sec-Fetch-Mode":"cors","Sec-Fetch-Site":"same-origin","Origin":"https:\/\/tlaxcalitabeach.com","Accept":"*\/*","Sec-Ch-Ua-Mobile":"?0","Content-Type":"application\/x-www-form-urlencoded","Sec-Ch-Ua":"\"Not:A-Brand\";v=\"99\", \"Google Chrome\";v=\"145\", \"Chromium\";v=\"145\"","User-Agent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/145.0.0.0 Safari\/537.36","Sec-Ch-Ua-Platform":"\"Windows\"","Content-Length":"133","Connection":"close","X-Accel-Internal":"\/internal-nginx-static-location","X-Real-Ip":"189.167.15.43","Host":"tlaxcalitabeach.com"}
+[2026-02-18 20:22:36] CONTENT_TYPE: application/x-www-form-urlencoded
+[2026-02-18 20:22:36] POST RAW: trackUri=spotify%3Atrack%3A4cOdK2wGLETKBW3PvgPWqT&trackName=Blinding+Lights&trackArtist=The+Weeknd&userEmail=Dante%40mxtopografia.com
+[2026-02-18 20:22:36] POST ARRAY: {"trackUri":"spotify:track:4cOdK2wGLETKBW3PvgPWqT","trackName":"Blinding Lights","trackArtist":"The Weeknd","userEmail":"Dante@mxtopografia.com"}
+[2026-02-18 20:22:36] SESSION ID: vitrj0i5ipo4sjekkru9kld4ot
+[2026-02-18 20:22:36] SESSION DATA: {"user_email":"usuario@directo.com","ubicacion_data":{"lat":19.278573681255462,"lon":-98.2361252654307,"distancia":20.16968478174814,"fecha":"2026-02-18 19:02:13"},"random_mode_active":false,"random_playlist_uri":null,"random_mode_started":null,"ubicacion_ok":true,"ubicacion_timestamp":1771441333}
+[2026-02-18 20:22:36] DATOS EXTRAÍDOS: | {"trackUri":"spotify:track:4cOdK2wGLETKBW3PvgPWqT","trackName":"Blinding Lights","trackArtist":"The Weeknd","userEmail":"Dante@mxtopografia.com"}
+[2026-02-18 20:22:36] BD CONECTADA OK
+[2026-02-18 20:22:36] === INICIANDO PROCESAMIENTO ===
+[2026-02-18 20:22:36] 🔑 Solicitando token...
+[2026-02-18 20:22:36] 🔑 Token respuesta - Código: 200
+[2026-02-18 20:22:36] 🔑 Token obtenido OK
+[2026-02-18 20:22:36] 📋 Playlist - Código: 201
+[2026-02-18 20:22:36] ✅ BD ID: 988
+[2026-02-18 20:22:36] RESPUESTA ENVIADA: {"success":true,"message":"Canci\u00f3n agregada correctamente","diagnostico":{"datos_recibidos":{"trackUri":"spotify:track:4cOdK2wGLETKBW3PvgPWqT","trackName":"Blinding Lights","trackArtist":"The Weeknd","userEmail":"Dante@mxtopografia.com"},"session_id":"vitrj0i5ipo4sjekkru9kld4ot","user_email_session":"usuario@directo.com","timestamp":"2026-02-18 20:22:36"},"data":{"id":988,"nombre":"Blinding Lights","artista":"The Weeknd","hora":"20:22:37","fecha":"2026-02-18"}}
+[2026-02-18 20:22:48] ========== INICIO PETICIÓN ==========
+[2026-02-18 20:22:48] MÉTODO: POST
+[2026-02-18 20:22:48] HEADERS: {"Cookie":"user_fingerprint=huella_0460388effc11ada8f8e0c362a16cefe92724aeeb91c7263506c4fab1216ca1f; PHPSESSID=vitrj0i5ipo4sjekkru9kld4ot","Priority":"u=1, i","Accept-Language":"es-419,es;q=0.9","Accept-Encoding":"gzip, deflate, br, zstd","Referer":"https:\/\/tlaxcalitabeach.com\/rating\/test_diagnostico.html","Sec-Fetch-Dest":"empty","Sec-Fetch-Mode":"cors","Sec-Fetch-Site":"same-origin","Origin":"https:\/\/tlaxcalitabeach.com","Accept":"*\/*","Sec-Ch-Ua-Mobile":"?0","Content-Type":"application\/x-www-form-urlencoded","Sec-Ch-Ua":"\"Not:A-Brand\";v=\"99\", \"Google Chrome\";v=\"145\", \"Chromium\";v=\"145\"","User-Agent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/145.0.0.0 Safari\/537.36","Sec-Ch-Ua-Platform":"\"Windows\"","Content-Length":"107","Connection":"close","X-Accel-Internal":"\/internal-nginx-static-location","X-Real-Ip":"189.167.15.43","Host":"tlaxcalitabeach.com"}
+[2026-02-18 20:22:48] CONTENT_TYPE: application/x-www-form-urlencoded
+[2026-02-18 20:22:48] POST RAW: trackUri=spotify%3Atrack%3A4cOdK2wGLETKBW3PvgPWqT&trackName=Test&trackArtist=Test&userEmail=test%40test.com
+[2026-02-18 20:22:48] POST ARRAY: {"trackUri":"spotify:track:4cOdK2wGLETKBW3PvgPWqT","trackName":"Test","trackArtist":"Test","userEmail":"test@test.com"}
+[2026-02-18 20:22:48] SESSION ID: vitrj0i5ipo4sjekkru9kld4ot
+[2026-02-18 20:22:48] SESSION DATA: {"user_email":"usuario@directo.com","ubicacion_data":{"lat":19.278573681255462,"lon":-98.2361252654307,"distancia":20.16968478174814,"fecha":"2026-02-18 19:02:13"},"random_mode_active":false,"random_playlist_uri":null,"random_mode_started":null,"ubicacion_ok":true,"ubicacion_timestamp":1771441333}
+[2026-02-18 20:22:48] DATOS EXTRAÍDOS: | {"trackUri":"spotify:track:4cOdK2wGLETKBW3PvgPWqT","trackName":"Test","trackArtist":"Test","userEmail":"test@test.com"}
+[2026-02-18 20:22:48] BD CONECTADA OK
+[2026-02-18 20:22:48] === INICIANDO PROCESAMIENTO ===
+[2026-02-18 20:22:48] 🔑 Solicitando token...
+[2026-02-18 20:22:48] 🔑 Token respuesta - Código: 200
+[2026-02-18 20:22:48] 🔑 Token obtenido OK
+[2026-02-18 20:22:48] 📋 Playlist - Código: 201
+[2026-02-18 20:22:48] ✅ BD ID: 989
+[2026-02-18 20:22:48] RESPUESTA ENVIADA: {"success":true,"message":"Canci\u00f3n agregada correctamente","diagnostico":{"datos_recibidos":{"trackUri":"spotify:track:4cOdK2wGLETKBW3PvgPWqT","trackName":"Test","trackArtist":"Test","userEmail":"test@test.com"},"session_id":"vitrj0i5ipo4sjekkru9kld4ot","user_email_session":"usuario@directo.com","timestamp":"2026-02-18 20:22:48"},"data":{"id":989,"nombre":"Test","artista":"Test","hora":"20:22:49","fecha":"2026-02-18"}}
+[2026-02-18 20:22:57] ========== INICIO PETICIÓN ==========
+[2026-02-18 20:22:57] MÉTODO: POST
+[2026-02-18 20:22:57] HEADERS: {"Cookie":"user_fingerprint=huella_0460388effc11ada8f8e0c362a16cefe92724aeeb91c7263506c4fab1216ca1f; PHPSESSID=vitrj0i5ipo4sjekkru9kld4ot","Priority":"u=1, i","Accept-Language":"es-419,es;q=0.9","Accept-Encoding":"gzip, deflate, br, zstd","Referer":"https:\/\/tlaxcalitabeach.com\/rating\/test_diagnostico.html","Sec-Fetch-Dest":"empty","Sec-Fetch-Mode":"cors","Sec-Fetch-Site":"same-origin","Origin":"https:\/\/tlaxcalitabeach.com","Accept":"*\/*","Sec-Ch-Ua-Mobile":"?0","Content-Type":"application\/x-www-form-urlencoded","Sec-Ch-Ua":"\"Not:A-Brand\";v=\"99\", \"Google Chrome\";v=\"145\", \"Chromium\";v=\"145\"","User-Agent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/145.0.0.0 Safari\/537.36","Sec-Ch-Ua-Platform":"\"Windows\"","Content-Length":"107","Connection":"close","X-Accel-Internal":"\/internal-nginx-static-location","X-Real-Ip":"189.167.15.43","Host":"tlaxcalitabeach.com"}
+[2026-02-18 20:22:57] CONTENT_TYPE: application/x-www-form-urlencoded
+[2026-02-18 20:22:57] POST RAW: trackUri=spotify%3Atrack%3A4cOdK2wGLETKBW3PvgPWqT&trackName=Test&trackArtist=Test&userEmail=test%40test.com
+[2026-02-18 20:22:57] POST ARRAY: {"trackUri":"spotify:track:4cOdK2wGLETKBW3PvgPWqT","trackName":"Test","trackArtist":"Test","userEmail":"test@test.com"}
+[2026-02-18 20:22:57] SESSION ID: vitrj0i5ipo4sjekkru9kld4ot
+[2026-02-18 20:22:57] SESSION DATA: {"user_email":"usuario@directo.com","ubicacion_data":{"lat":19.278573681255462,"lon":-98.2361252654307,"distancia":20.16968478174814,"fecha":"2026-02-18 19:02:13"},"random_mode_active":false,"random_playlist_uri":null,"random_mode_started":null,"ubicacion_ok":true,"ubicacion_timestamp":1771441333}
+[2026-02-18 20:22:57] DATOS EXTRAÍDOS: | {"trackUri":"spotify:track:4cOdK2wGLETKBW3PvgPWqT","trackName":"Test","trackArtist":"Test","userEmail":"test@test.com"}
+[2026-02-18 20:22:57] BD CONECTADA OK
+[2026-02-18 20:22:57] === INICIANDO PROCESAMIENTO ===
+[2026-02-18 20:22:57] 🔑 Solicitando token...
+[2026-02-18 20:22:57] 🔑 Token respuesta - Código: 200
+[2026-02-18 20:22:57] 🔑 Token obtenido OK
+[2026-02-18 20:22:57] 📋 Playlist - Código: 201
+[2026-02-18 20:22:57] ✅ BD ID: 990
+[2026-02-18 20:22:57] RESPUESTA ENVIADA: {"success":true,"message":"Canci\u00f3n agregada correctamente","diagnostico":{"datos_recibidos":{"trackUri":"spotify:track:4cOdK2wGLETKBW3PvgPWqT","trackName":"Test","trackArtist":"Test","userEmail":"test@test.com"},"session_id":"vitrj0i5ipo4sjekkru9kld4ot","user_email_session":"usuario@directo.com","timestamp":"2026-02-18 20:22:57"},"data":{"id":990,"nombre":"Test","artista":"Test","hora":"20:22:57","fecha":"2026-02-18"}}
+[2026-02-18 20:23:19] ========== INICIO PETICIÓN ==========
+[2026-02-18 20:23:19] MÉTODO: POST
+[2026-02-18 20:23:19] HEADERS: {"Cookie":"user_fingerprint=huella_0460388effc11ada8f8e0c362a16cefe92724aeeb91c7263506c4fab1216ca1f; PHPSESSID=vitrj0i5ipo4sjekkru9kld4ot","Priority":"u=1, i","Accept-Language":"es-419,es;q=0.9","Accept-Encoding":"gzip, deflate, br, zstd","Referer":"https:\/\/tlaxcalitabeach.com\/rating\/test_diagnostico.html","Sec-Fetch-Dest":"empty","Sec-Fetch-Mode":"cors","Sec-Fetch-Site":"same-origin","Origin":"https:\/\/tlaxcalitabeach.com","Accept":"*\/*","Sec-Ch-Ua-Mobile":"?0","Content-Type":"application\/x-www-form-urlencoded","Sec-Ch-Ua":"\"Not:A-Brand\";v=\"99\", \"Google Chrome\";v=\"145\", \"Chromium\";v=\"145\"","User-Agent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/145.0.0.0 Safari\/537.36","Sec-Ch-Ua-Platform":"\"Windows\"","Content-Length":"146","Connection":"close","X-Accel-Internal":"\/internal-nginx-static-location","X-Real-Ip":"189.167.15.43","Host":"tlaxcalitabeach.com"}
+[2026-02-18 20:23:19] CONTENT_TYPE: application/x-www-form-urlencoded
+[2026-02-18 20:23:19] POST RAW: trackUri=spotify%3Atrack%3A4cOdK2wGLETKBW3PvgPWqT&trackName=Canci%C3%83%C2%B3n+de+Prueba&trackArtist=Artista+Test&userEmail=test%40diagnostico.com
+[2026-02-18 20:23:19] POST ARRAY: {"trackUri":"spotify:track:4cOdK2wGLETKBW3PvgPWqT","trackName":"Canci\u00c3\u00b3n de Prueba","trackArtist":"Artista Test","userEmail":"test@diagnostico.com"}
+[2026-02-18 20:23:19] SESSION ID: vitrj0i5ipo4sjekkru9kld4ot
+[2026-02-18 20:23:19] SESSION DATA: {"user_email":"usuario@directo.com","ubicacion_data":{"lat":19.278573681255462,"lon":-98.2361252654307,"distancia":20.16968478174814,"fecha":"2026-02-18 19:02:13"},"random_mode_active":false,"random_playlist_uri":null,"random_mode_started":null,"ubicacion_ok":true,"ubicacion_timestamp":1771441333}
+[2026-02-18 20:23:19] DATOS EXTRAÍDOS: | {"trackUri":"spotify:track:4cOdK2wGLETKBW3PvgPWqT","trackName":"CanciÃ³n de Prueba","trackArtist":"Artista Test","userEmail":"test@diagnostico.com"}
+[2026-02-18 20:23:19] BD CONECTADA OK
+[2026-02-18 20:23:19] === INICIANDO PROCESAMIENTO ===
+[2026-02-18 20:23:19] 🔑 Solicitando token...
+[2026-02-18 20:23:19] 🔑 Token respuesta - Código: 200
+[2026-02-18 20:23:19] 🔑 Token obtenido OK
+[2026-02-18 20:23:19] 📋 Playlist - Código: 201
+[2026-02-18 20:23:19] ✅ BD ID: 991
+[2026-02-18 20:23:19] RESPUESTA ENVIADA: {"success":true,"message":"Canci\u00f3n agregada correctamente","diagnostico":{"datos_recibidos":{"trackUri":"spotify:track:4cOdK2wGLETKBW3PvgPWqT","trackName":"Canci\u00c3\u00b3n de Prueba","trackArtist":"Artista Test","userEmail":"test@diagnostico.com"},"session_id":"vitrj0i5ipo4sjekkru9kld4ot","user_email_session":"usuario@directo.com","timestamp":"2026-02-18 20:23:19"},"data":{"id":991,"nombre":"Canci\u00c3\u00b3n de Prueba","artista":"Artista Test","hora":"20:23:20","fecha":"2026-02-18"}}
+[2026-02-18 20:25:01] ========== INICIO PETICIÓN ==========
+[2026-02-18 20:25:01] MÉTODO: POST
+[2026-02-18 20:25:01] HEADERS: {"Cookie":"user_fingerprint=huella_0460388effc11ada8f8e0c362a16cefe92724aeeb91c7263506c4fab1216ca1f; PHPSESSID=vitrj0i5ipo4sjekkru9kld4ot","Priority":"u=1, i","Accept-Language":"es-419,es;q=0.9","Accept-Encoding":"gzip, deflate, br, zstd","Referer":"https:\/\/tlaxcalitabeach.com\/rating\/test_diagnostico.html","Sec-Fetch-Dest":"empty","Sec-Fetch-Mode":"cors","Sec-Fetch-Site":"same-origin","Origin":"https:\/\/tlaxcalitabeach.com","Accept":"*\/*","Sec-Ch-Ua-Mobile":"?0","Content-Type":"application\/x-www-form-urlencoded","Sec-Ch-Ua":"\"Not:A-Brand\";v=\"99\", \"Google Chrome\";v=\"145\", \"Chromium\";v=\"145\"","User-Agent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/145.0.0.0 Safari\/537.36","Sec-Ch-Ua-Platform":"\"Windows\"","Content-Length":"146","Connection":"close","X-Accel-Internal":"\/internal-nginx-static-location","X-Real-Ip":"189.167.15.43","Host":"tlaxcalitabeach.com"}
+[2026-02-18 20:25:01] CONTENT_TYPE: application/x-www-form-urlencoded
+[2026-02-18 20:25:01] POST RAW: trackUri=spotify%3Atrack%3A4cOdK2wGLETKBW3PvgPWqT&trackName=Canci%C3%83%C2%B3n+de+Prueba&trackArtist=Artista+Test&userEmail=test%40diagnostico.com
+[2026-02-18 20:25:01] POST ARRAY: {"trackUri":"spotify:track:4cOdK2wGLETKBW3PvgPWqT","trackName":"Canci\u00c3\u00b3n de Prueba","trackArtist":"Artista Test","userEmail":"test@diagnostico.com"}
+[2026-02-18 20:25:01] SESSION ID: vitrj0i5ipo4sjekkru9kld4ot
+[2026-02-18 20:25:01] SESSION DATA: {"user_email":"usuario@directo.com","ubicacion_data":{"lat":19.278573681255462,"lon":-98.2361252654307,"distancia":20.16968478174814,"fecha":"2026-02-18 19:02:13"},"random_mode_active":false,"random_playlist_uri":null,"random_mode_started":null,"ubicacion_ok":true,"ubicacion_timestamp":1771441333}
+[2026-02-18 20:25:01] DATOS EXTRAÍDOS: | {"trackUri":"spotify:track:4cOdK2wGLETKBW3PvgPWqT","trackName":"CanciÃ³n de Prueba","trackArtist":"Artista Test","userEmail":"test@diagnostico.com"}
+[2026-02-18 20:25:01] BD CONECTADA OK
+[2026-02-18 20:25:01] === INICIANDO PROCESAMIENTO ===
+[2026-02-18 20:25:01] 🔑 Solicitando token...
+[2026-02-18 20:25:01] 🔑 Token respuesta - Código: 200
+[2026-02-18 20:25:01] 🔑 Token obtenido OK
+[2026-02-18 20:25:01] 📋 Playlist - Código: 201
+[2026-02-18 20:25:01] ✅ BD ID: 992
+[2026-02-18 20:25:01] RESPUESTA ENVIADA: {"success":true,"message":"Canci\u00f3n agregada correctamente","diagnostico":{"datos_recibidos":{"trackUri":"spotify:track:4cOdK2wGLETKBW3PvgPWqT","trackName":"Canci\u00c3\u00b3n de Prueba","trackArtist":"Artista Test","userEmail":"test@diagnostico.com"},"session_id":"vitrj0i5ipo4sjekkru9kld4ot","user_email_session":"usuario@directo.com","timestamp":"2026-02-18 20:25:01"},"data":{"id":992,"nombre":"Canci\u00c3\u00b3n de Prueba","artista":"Artista Test","hora":"20:25:01","fecha":"2026-02-18"}}
+[2026-02-18 20:25:11] ========== INICIO PETICIÓN ==========
+[2026-02-18 20:25:11] MÉTODO: POST
+[2026-02-18 20:25:11] HEADERS: {"Cookie":"user_fingerprint=huella_0460388effc11ada8f8e0c362a16cefe92724aeeb91c7263506c4fab1216ca1f; PHPSESSID=vitrj0i5ipo4sjekkru9kld4ot","Priority":"u=1, i","Accept-Language":"es-419,es;q=0.9","Accept-Encoding":"gzip, deflate, br, zstd","Referer":"https:\/\/tlaxcalitabeach.com\/rating\/test_diagnostico.html","Sec-Fetch-Dest":"empty","Sec-Fetch-Mode":"cors","Sec-Fetch-Site":"same-origin","Origin":"https:\/\/tlaxcalitabeach.com","Accept":"*\/*","Sec-Ch-Ua-Mobile":"?0","Content-Type":"application\/x-www-form-urlencoded","Sec-Ch-Ua":"\"Not:A-Brand\";v=\"99\", \"Google Chrome\";v=\"145\", \"Chromium\";v=\"145\"","User-Agent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/145.0.0.0 Safari\/537.36","Sec-Ch-Ua-Platform":"\"Windows\"","Content-Length":"133","Connection":"close","X-Accel-Internal":"\/internal-nginx-static-location","X-Real-Ip":"189.167.15.43","Host":"tlaxcalitabeach.com"}
+[2026-02-18 20:25:11] CONTENT_TYPE: application/x-www-form-urlencoded
+[2026-02-18 20:25:11] POST RAW: trackUri=spotify%3Atrack%3A4cOdK2wGLETKBW3PvgPWqT&trackName=Blinding+Lights&trackArtist=The+Weeknd&userEmail=Dante%40mxtopografia.com
+[2026-02-18 20:25:11] POST ARRAY: {"trackUri":"spotify:track:4cOdK2wGLETKBW3PvgPWqT","trackName":"Blinding Lights","trackArtist":"The Weeknd","userEmail":"Dante@mxtopografia.com"}
+[2026-02-18 20:25:11] SESSION ID: vitrj0i5ipo4sjekkru9kld4ot
+[2026-02-18 20:25:11] SESSION DATA: {"user_email":"usuario@directo.com","ubicacion_data":{"lat":19.278573681255462,"lon":-98.2361252654307,"distancia":20.16968478174814,"fecha":"2026-02-18 19:02:13"},"random_mode_active":false,"random_playlist_uri":null,"random_mode_started":null,"ubicacion_ok":true,"ubicacion_timestamp":1771441333}
+[2026-02-18 20:25:11] DATOS EXTRAÍDOS: | {"trackUri":"spotify:track:4cOdK2wGLETKBW3PvgPWqT","trackName":"Blinding Lights","trackArtist":"The Weeknd","userEmail":"Dante@mxtopografia.com"}
+[2026-02-18 20:25:11] BD CONECTADA OK
+[2026-02-18 20:25:11] === INICIANDO PROCESAMIENTO ===
+[2026-02-18 20:25:11] 🔑 Solicitando token...
+[2026-02-18 20:25:11] 🔑 Token respuesta - Código: 200
+[2026-02-18 20:25:11] 🔑 Token obtenido OK
+[2026-02-18 20:25:11] 📋 Playlist - Código: 201
+[2026-02-18 20:25:11] ✅ BD ID: 993
+[2026-02-18 20:25:11] RESPUESTA ENVIADA: {"success":true,"message":"Canci\u00f3n agregada correctamente","diagnostico":{"datos_recibidos":{"trackUri":"spotify:track:4cOdK2wGLETKBW3PvgPWqT","trackName":"Blinding Lights","trackArtist":"The Weeknd","userEmail":"Dante@mxtopografia.com"},"session_id":"vitrj0i5ipo4sjekkru9kld4ot","user_email_session":"usuario@directo.com","timestamp":"2026-02-18 20:25:11"},"data":{"id":993,"nombre":"Blinding Lights","artista":"The Weeknd","hora":"20:25:11","fecha":"2026-02-18"}}
+[2026-02-18 20:25:19] ========== INICIO PETICIÓN ==========
+[2026-02-18 20:25:19] MÉTODO: POST
+[2026-02-18 20:25:19] HEADERS: {"Cookie":"user_fingerprint=huella_0460388effc11ada8f8e0c362a16cefe92724aeeb91c7263506c4fab1216ca1f; PHPSESSID=vitrj0i5ipo4sjekkru9kld4ot","Priority":"u=1, i","Accept-Language":"es-419,es;q=0.9","Accept-Encoding":"gzip, deflate, br, zstd","Referer":"https:\/\/tlaxcalitabeach.com\/rating\/test_diagnostico.html","Sec-Fetch-Dest":"empty","Sec-Fetch-Mode":"cors","Sec-Fetch-Site":"same-origin","Origin":"https:\/\/tlaxcalitabeach.com","Accept":"*\/*","Sec-Ch-Ua-Mobile":"?0","Content-Type":"application\/x-www-form-urlencoded","Sec-Ch-Ua":"\"Not:A-Brand\";v=\"99\", \"Google Chrome\";v=\"145\", \"Chromium\";v=\"145\"","User-Agent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/145.0.0.0 Safari\/537.36","Sec-Ch-Ua-Platform":"\"Windows\"","Content-Length":"107","Connection":"close","X-Accel-Internal":"\/internal-nginx-static-location","X-Real-Ip":"189.167.15.43","Host":"tlaxcalitabeach.com"}
+[2026-02-18 20:25:19] CONTENT_TYPE: application/x-www-form-urlencoded
+[2026-02-18 20:25:19] POST RAW: trackUri=spotify%3Atrack%3A4cOdK2wGLETKBW3PvgPWqT&trackName=Test&trackArtist=Test&userEmail=test%40test.com
+[2026-02-18 20:25:19] POST ARRAY: {"trackUri":"spotify:track:4cOdK2wGLETKBW3PvgPWqT","trackName":"Test","trackArtist":"Test","userEmail":"test@test.com"}
+[2026-02-18 20:25:19] SESSION ID: vitrj0i5ipo4sjekkru9kld4ot
+[2026-02-18 20:25:19] SESSION DATA: {"user_email":"usuario@directo.com","ubicacion_data":{"lat":19.278573681255462,"lon":-98.2361252654307,"distancia":20.16968478174814,"fecha":"2026-02-18 19:02:13"},"random_mode_active":false,"random_playlist_uri":null,"random_mode_started":null,"ubicacion_ok":true,"ubicacion_timestamp":1771441333}
+[2026-02-18 20:25:19] DATOS EXTRAÍDOS: | {"trackUri":"spotify:track:4cOdK2wGLETKBW3PvgPWqT","trackName":"Test","trackArtist":"Test","userEmail":"test@test.com"}
+[2026-02-18 20:25:19] BD CONECTADA OK
+[2026-02-18 20:25:19] === INICIANDO PROCESAMIENTO ===
+[2026-02-18 20:25:19] 🔑 Solicitando token...
+[2026-02-18 20:25:19] 🔑 Token respuesta - Código: 200
+[2026-02-18 20:25:19] 🔑 Token obtenido OK
+[2026-02-18 20:25:19] 📋 Playlist - Código: 201
+[2026-02-18 20:25:19] ✅ BD ID: 994
+[2026-02-18 20:25:19] RESPUESTA ENVIADA: {"success":true,"message":"Canci\u00f3n agregada correctamente","diagnostico":{"datos_recibidos":{"trackUri":"spotify:track:4cOdK2wGLETKBW3PvgPWqT","trackName":"Test","trackArtist":"Test","userEmail":"test@test.com"},"session_id":"vitrj0i5ipo4sjekkru9kld4ot","user_email_session":"usuario@directo.com","timestamp":"2026-02-18 20:25:19"},"data":{"id":994,"nombre":"Test","artista":"Test","hora":"20:25:19","fecha":"2026-02-18"}}
+[2026-02-18 20:25:30] ========== INICIO PETICIÓN ==========
+[2026-02-18 20:25:30] MÉTODO: POST
+[2026-02-18 20:25:30] HEADERS: {"Cookie":"user_fingerprint=huella_0460388effc11ada8f8e0c362a16cefe92724aeeb91c7263506c4fab1216ca1f; PHPSESSID=vitrj0i5ipo4sjekkru9kld4ot","Priority":"u=1, i","Accept-Language":"es-419,es;q=0.9","Accept-Encoding":"gzip, deflate, br, zstd","Referer":"https:\/\/tlaxcalitabeach.com\/rating\/test_diagnostico.html","Sec-Fetch-Dest":"empty","Sec-Fetch-Mode":"cors","Sec-Fetch-Site":"same-origin","Origin":"https:\/\/tlaxcalitabeach.com","Accept":"*\/*","Sec-Ch-Ua-Mobile":"?0","Content-Type":"application\/x-www-form-urlencoded","Sec-Ch-Ua":"\"Not:A-Brand\";v=\"99\", \"Google Chrome\";v=\"145\", \"Chromium\";v=\"145\"","User-Agent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/145.0.0.0 Safari\/537.36","Sec-Ch-Ua-Platform":"\"Windows\"","Content-Length":"107","Connection":"close","X-Accel-Internal":"\/internal-nginx-static-location","X-Real-Ip":"189.167.15.43","Host":"tlaxcalitabeach.com"}
+[2026-02-18 20:25:30] CONTENT_TYPE: application/x-www-form-urlencoded
+[2026-02-18 20:25:30] POST RAW: trackUri=spotify%3Atrack%3A4cOdK2wGLETKBW3PvgPWqT&trackName=Test&trackArtist=Test&userEmail=test%40test.com
+[2026-02-18 20:25:30] POST ARRAY: {"trackUri":"spotify:track:4cOdK2wGLETKBW3PvgPWqT","trackName":"Test","trackArtist":"Test","userEmail":"test@test.com"}
+[2026-02-18 20:25:30] SESSION ID: vitrj0i5ipo4sjekkru9kld4ot
+[2026-02-18 20:25:30] SESSION DATA: {"user_email":"usuario@directo.com","ubicacion_data":{"lat":19.278573681255462,"lon":-98.2361252654307,"distancia":20.16968478174814,"fecha":"2026-02-18 19:02:13"},"random_mode_active":false,"random_playlist_uri":null,"random_mode_started":null,"ubicacion_ok":true,"ubicacion_timestamp":1771441333}
+[2026-02-18 20:25:30] DATOS EXTRAÍDOS: | {"trackUri":"spotify:track:4cOdK2wGLETKBW3PvgPWqT","trackName":"Test","trackArtist":"Test","userEmail":"test@test.com"}
+[2026-02-18 20:25:30] BD CONECTADA OK
+[2026-02-18 20:25:30] === INICIANDO PROCESAMIENTO ===
+[2026-02-18 20:25:30] 🔑 Solicitando token...
+[2026-02-18 20:25:30] 🔑 Token respuesta - Código: 200
+[2026-02-18 20:25:30] 🔑 Token obtenido OK
+[2026-02-18 20:25:30] 📋 Playlist - Código: 201
+[2026-02-18 20:25:30] ✅ BD ID: 995
+[2026-02-18 20:25:30] RESPUESTA ENVIADA: {"success":true,"message":"Canci\u00f3n agregada correctamente","diagnostico":{"datos_recibidos":{"trackUri":"spotify:track:4cOdK2wGLETKBW3PvgPWqT","trackName":"Test","trackArtist":"Test","userEmail":"test@test.com"},"session_id":"vitrj0i5ipo4sjekkru9kld4ot","user_email_session":"usuario@directo.com","timestamp":"2026-02-18 20:25:30"},"data":{"id":995,"nombre":"Test","artista":"Test","hora":"20:25:31","fecha":"2026-02-18"}}
+[2026-02-18 20:25:56] ========== INICIO PETICIÓN ==========
+[2026-02-18 20:25:56] MÉTODO: POST
+[2026-02-18 20:25:56] HEADERS: {"Cookie":"user_fingerprint=huella_0460388effc11ada8f8e0c362a16cefe92724aeeb91c7263506c4fab1216ca1f; PHPSESSID=vitrj0i5ipo4sjekkru9kld4ot","Priority":"u=1, i","Accept-Language":"es-419,es;q=0.9","Accept-Encoding":"gzip, deflate, br, zstd","Referer":"https:\/\/tlaxcalitabeach.com\/rating\/test_diagnostico.html","Sec-Fetch-Dest":"empty","Sec-Fetch-Mode":"cors","Sec-Fetch-Site":"same-origin","Origin":"https:\/\/tlaxcalitabeach.com","Accept":"*\/*","Sec-Ch-Ua-Mobile":"?0","Content-Type":"application\/x-www-form-urlencoded","Sec-Ch-Ua":"\"Not:A-Brand\";v=\"99\", \"Google Chrome\";v=\"145\", \"Chromium\";v=\"145\"","User-Agent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/145.0.0.0 Safari\/537.36","Sec-Ch-Ua-Platform":"\"Windows\"","Content-Length":"146","Connection":"close","X-Accel-Internal":"\/internal-nginx-static-location","X-Real-Ip":"189.167.15.43","Host":"tlaxcalitabeach.com"}
+[2026-02-18 20:25:56] CONTENT_TYPE: application/x-www-form-urlencoded
+[2026-02-18 20:25:56] POST RAW: trackUri=spotify%3Atrack%3A4cOdK2wGLETKBW3PvgPWqT&trackName=Canci%C3%83%C2%B3n+de+Prueba&trackArtist=Artista+Test&userEmail=test%40diagnostico.com
+[2026-02-18 20:25:56] POST ARRAY: {"trackUri":"spotify:track:4cOdK2wGLETKBW3PvgPWqT","trackName":"Canci\u00c3\u00b3n de Prueba","trackArtist":"Artista Test","userEmail":"test@diagnostico.com"}
+[2026-02-18 20:25:56] SESSION ID: vitrj0i5ipo4sjekkru9kld4ot
+[2026-02-18 20:25:56] SESSION DATA: {"user_email":"usuario@directo.com","ubicacion_data":{"lat":19.278573681255462,"lon":-98.2361252654307,"distancia":20.16968478174814,"fecha":"2026-02-18 19:02:13"},"random_mode_active":false,"random_playlist_uri":null,"random_mode_started":null,"ubicacion_ok":true,"ubicacion_timestamp":1771441333}
+[2026-02-18 20:25:56] DATOS EXTRAÍDOS: | {"trackUri":"spotify:track:4cOdK2wGLETKBW3PvgPWqT","trackName":"CanciÃ³n de Prueba","trackArtist":"Artista Test","userEmail":"test@diagnostico.com"}
+[2026-02-18 20:25:56] BD CONECTADA OK
+[2026-02-18 20:25:56] === INICIANDO PROCESAMIENTO ===
+[2026-02-18 20:25:56] 🔑 Solicitando token...
+[2026-02-18 20:25:56] 🔑 Token respuesta - Código: 200
+[2026-02-18 20:25:56] 🔑 Token obtenido OK
+[2026-02-18 20:25:56] 📋 Playlist - Código: 201
+[2026-02-18 20:25:56] ✅ BD ID: 996
+[2026-02-18 20:25:56] RESPUESTA ENVIADA: {"success":true,"message":"Canci\u00f3n agregada correctamente","diagnostico":{"datos_recibidos":{"trackUri":"spotify:track:4cOdK2wGLETKBW3PvgPWqT","trackName":"Canci\u00c3\u00b3n de Prueba","trackArtist":"Artista Test","userEmail":"test@diagnostico.com"},"session_id":"vitrj0i5ipo4sjekkru9kld4ot","user_email_session":"usuario@directo.com","timestamp":"2026-02-18 20:25:56"},"data":{"id":996,"nombre":"Canci\u00c3\u00b3n de Prueba","artista":"Artista Test","hora":"20:25:57","fecha":"2026-02-18"}}
+[2026-02-18 20:26:37] ========== INICIO PETICIÓN ==========
+[2026-02-18 20:26:37] MÉTODO: POST
+[2026-02-18 20:26:37] HEADERS: {"Cookie":"user_fingerprint=huella_0460388effc11ada8f8e0c362a16cefe92724aeeb91c7263506c4fab1216ca1f; PHPSESSID=vitrj0i5ipo4sjekkru9kld4ot","Priority":"u=1, i","Accept-Language":"es-419,es;q=0.9","Accept-Encoding":"gzip, deflate, br, zstd","Referer":"https:\/\/tlaxcalitabeach.com\/rating\/test_diagnostico.html","Sec-Fetch-Dest":"empty","Sec-Fetch-Mode":"cors","Sec-Fetch-Site":"same-origin","Origin":"https:\/\/tlaxcalitabeach.com","Accept":"*\/*","Sec-Ch-Ua-Mobile":"?0","Content-Type":"application\/x-www-form-urlencoded","Sec-Ch-Ua":"\"Not:A-Brand\";v=\"99\", \"Google Chrome\";v=\"145\", \"Chromium\";v=\"145\"","User-Agent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/145.0.0.0 Safari\/537.36","Sec-Ch-Ua-Platform":"\"Windows\"","Content-Length":"133","Connection":"close","X-Accel-Internal":"\/internal-nginx-static-location","X-Real-Ip":"189.167.15.43","Host":"tlaxcalitabeach.com"}
+[2026-02-18 20:26:37] CONTENT_TYPE: application/x-www-form-urlencoded
+[2026-02-18 20:26:37] POST RAW: trackUri=spotify%3Atrack%3A4cOdK2wGLETKBW3PvgPWqT&trackName=Blinding+Lights&trackArtist=The+Weeknd&userEmail=Dante%40mxtopografia.com
+[2026-02-18 20:26:37] POST ARRAY: {"trackUri":"spotify:track:4cOdK2wGLETKBW3PvgPWqT","trackName":"Blinding Lights","trackArtist":"The Weeknd","userEmail":"Dante@mxtopografia.com"}
+[2026-02-18 20:26:37] SESSION ID: vitrj0i5ipo4sjekkru9kld4ot
+[2026-02-18 20:26:37] SESSION DATA: {"user_email":"usuario@directo.com","ubicacion_data":{"lat":19.278573681255462,"lon":-98.2361252654307,"distancia":20.16968478174814,"fecha":"2026-02-18 19:02:13"},"random_mode_active":false,"random_playlist_uri":null,"random_mode_started":null,"ubicacion_ok":true,"ubicacion_timestamp":1771441333}
+[2026-02-18 20:26:37] DATOS EXTRAÍDOS: | {"trackUri":"spotify:track:4cOdK2wGLETKBW3PvgPWqT","trackName":"Blinding Lights","trackArtist":"The Weeknd","userEmail":"Dante@mxtopografia.com"}
+[2026-02-18 20:26:37] BD CONECTADA OK
+[2026-02-18 20:26:37] === INICIANDO PROCESAMIENTO ===
+[2026-02-18 20:26:37] 🔑 Solicitando token...
+[2026-02-18 20:26:37] 🔑 Token respuesta - Código: 200
+[2026-02-18 20:26:37] 🔑 Token obtenido OK
+[2026-02-18 20:26:37] 📋 Playlist - Código: 201
+[2026-02-18 20:26:37] ✅ BD ID: 997
+[2026-02-18 20:26:37] RESPUESTA ENVIADA: {"success":true,"message":"Canci\u00f3n agregada correctamente","diagnostico":{"datos_recibidos":{"trackUri":"spotify:track:4cOdK2wGLETKBW3PvgPWqT","trackName":"Blinding Lights","trackArtist":"The Weeknd","userEmail":"Dante@mxtopografia.com"},"session_id":"vitrj0i5ipo4sjekkru9kld4ot","user_email_session":"usuario@directo.com","timestamp":"2026-02-18 20:26:37"},"data":{"id":997,"nombre":"Blinding Lights","artista":"The Weeknd","hora":"20:26:37","fecha":"2026-02-18"}}
+[2026-02-18 20:27:05] ========== INICIO PETICIÓN ==========
+[2026-02-18 20:27:05] MÉTODO: POST
+[2026-02-18 20:27:05] HEADERS: {"Cookie":"user_fingerprint=huella_0460388effc11ada8f8e0c362a16cefe92724aeeb91c7263506c4fab1216ca1f; PHPSESSID=vitrj0i5ipo4sjekkru9kld4ot","Priority":"u=1, i","Accept-Language":"es-419,es;q=0.9","Accept-Encoding":"gzip, deflate, br, zstd","Referer":"https:\/\/tlaxcalitabeach.com\/rating\/test_diagnostico.html","Sec-Fetch-Dest":"empty","Sec-Fetch-Mode":"cors","Sec-Fetch-Site":"same-origin","Origin":"https:\/\/tlaxcalitabeach.com","Accept":"*\/*","Sec-Ch-Ua-Mobile":"?0","Content-Type":"application\/x-www-form-urlencoded","Sec-Ch-Ua":"\"Not:A-Brand\";v=\"99\", \"Google Chrome\";v=\"145\", \"Chromium\";v=\"145\"","User-Agent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/145.0.0.0 Safari\/537.36","Sec-Ch-Ua-Platform":"\"Windows\"","Content-Length":"107","Connection":"close","X-Accel-Internal":"\/internal-nginx-static-location","X-Real-Ip":"189.167.15.43","Host":"tlaxcalitabeach.com"}
+[2026-02-18 20:27:05] CONTENT_TYPE: application/x-www-form-urlencoded
+[2026-02-18 20:27:05] POST RAW: trackUri=spotify%3Atrack%3A4cOdK2wGLETKBW3PvgPWqT&trackName=Test&trackArtist=Test&userEmail=test%40test.com
+[2026-02-18 20:27:05] POST ARRAY: {"trackUri":"spotify:track:4cOdK2wGLETKBW3PvgPWqT","trackName":"Test","trackArtist":"Test","userEmail":"test@test.com"}
+[2026-02-18 20:27:05] SESSION ID: vitrj0i5ipo4sjekkru9kld4ot
+[2026-02-18 20:27:05] SESSION DATA: {"user_email":"usuario@directo.com","ubicacion_data":{"lat":19.278573681255462,"lon":-98.2361252654307,"distancia":20.16968478174814,"fecha":"2026-02-18 19:02:13"},"random_mode_active":false,"random_playlist_uri":null,"random_mode_started":null,"ubicacion_ok":true,"ubicacion_timestamp":1771441333}
+[2026-02-18 20:27:05] DATOS EXTRAÍDOS: | {"trackUri":"spotify:track:4cOdK2wGLETKBW3PvgPWqT","trackName":"Test","trackArtist":"Test","userEmail":"test@test.com"}
+[2026-02-18 20:27:05] BD CONECTADA OK
+[2026-02-18 20:27:05] === INICIANDO PROCESAMIENTO ===
+[2026-02-18 20:27:05] 🔑 Solicitando token...
+[2026-02-18 20:27:05] 🔑 Token respuesta - Código: 200
+[2026-02-18 20:27:05] 🔑 Token obtenido OK
+[2026-02-18 20:27:05] 📋 Playlist - Código: 201
+[2026-02-18 20:27:05] ✅ BD ID: 998
+[2026-02-18 20:27:05] RESPUESTA ENVIADA: {"success":true,"message":"Canci\u00f3n agregada correctamente","diagnostico":{"datos_recibidos":{"trackUri":"spotify:track:4cOdK2wGLETKBW3PvgPWqT","trackName":"Test","trackArtist":"Test","userEmail":"test@test.com"},"session_id":"vitrj0i5ipo4sjekkru9kld4ot","user_email_session":"usuario@directo.com","timestamp":"2026-02-18 20:27:05"},"data":{"id":998,"nombre":"Test","artista":"Test","hora":"20:27:05","fecha":"2026-02-18"}}
+[2026-02-18 20:27:32] ========== INICIO PETICIÓN ==========
+[2026-02-18 20:27:32] MÉTODO: POST
+[2026-02-18 20:27:32] HEADERS: {"Cookie":"user_fingerprint=huella_0460388effc11ada8f8e0c362a16cefe92724aeeb91c7263506c4fab1216ca1f; PHPSESSID=vitrj0i5ipo4sjekkru9kld4ot","Priority":"u=1, i","Accept-Language":"es-419,es;q=0.9","Accept-Encoding":"gzip, deflate, br, zstd","Referer":"https:\/\/tlaxcalitabeach.com\/rating\/test_diagnostico.html","Sec-Fetch-Dest":"empty","Sec-Fetch-Mode":"cors","Sec-Fetch-Site":"same-origin","Origin":"https:\/\/tlaxcalitabeach.com","Accept":"*\/*","Sec-Ch-Ua-Mobile":"?0","Content-Type":"application\/x-www-form-urlencoded","Sec-Ch-Ua":"\"Not:A-Brand\";v=\"99\", \"Google Chrome\";v=\"145\", \"Chromium\";v=\"145\"","User-Agent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/145.0.0.0 Safari\/537.36","Sec-Ch-Ua-Platform":"\"Windows\"","Content-Length":"107","Connection":"close","X-Accel-Internal":"\/internal-nginx-static-location","X-Real-Ip":"189.167.15.43","Host":"tlaxcalitabeach.com"}
+[2026-02-18 20:27:32] CONTENT_TYPE: application/x-www-form-urlencoded
+[2026-02-18 20:27:32] POST RAW: trackUri=spotify%3Atrack%3A4cOdK2wGLETKBW3PvgPWqT&trackName=Test&trackArtist=Test&userEmail=test%40test.com
+[2026-02-18 20:27:32] POST ARRAY: {"trackUri":"spotify:track:4cOdK2wGLETKBW3PvgPWqT","trackName":"Test","trackArtist":"Test","userEmail":"test@test.com"}
+[2026-02-18 20:27:32] SESSION ID: vitrj0i5ipo4sjekkru9kld4ot
+[2026-02-18 20:27:32] SESSION DATA: {"user_email":"usuario@directo.com","ubicacion_data":{"lat":19.278573681255462,"lon":-98.2361252654307,"distancia":20.16968478174814,"fecha":"2026-02-18 19:02:13"},"random_mode_active":false,"random_playlist_uri":null,"random_mode_started":null,"ubicacion_ok":true,"ubicacion_timestamp":1771441333}
+[2026-02-18 20:27:32] DATOS EXTRAÍDOS: | {"trackUri":"spotify:track:4cOdK2wGLETKBW3PvgPWqT","trackName":"Test","trackArtist":"Test","userEmail":"test@test.com"}
+[2026-02-18 20:27:32] BD CONECTADA OK
+[2026-02-18 20:27:32] === INICIANDO PROCESAMIENTO ===
+[2026-02-18 20:27:32] 🔑 Solicitando token...
+[2026-02-18 20:27:32] 🔑 Token respuesta - Código: 200
+[2026-02-18 20:27:32] 🔑 Token obtenido OK
+[2026-02-18 20:27:32] 📋 Playlist - Código: 201
+[2026-02-18 20:27:32] ✅ BD ID: 999
+[2026-02-18 20:27:32] RESPUESTA ENVIADA: {"success":true,"message":"Canci\u00f3n agregada correctamente","diagnostico":{"datos_recibidos":{"trackUri":"spotify:track:4cOdK2wGLETKBW3PvgPWqT","trackName":"Test","trackArtist":"Test","userEmail":"test@test.com"},"session_id":"vitrj0i5ipo4sjekkru9kld4ot","user_email_session":"usuario@directo.com","timestamp":"2026-02-18 20:27:32"},"data":{"id":999,"nombre":"Test","artista":"Test","hora":"20:27:33","fecha":"2026-02-18"}}
+[2026-02-18 20:34:10] ========== INICIO PETICIÓN ==========
+[2026-02-18 20:34:10] MÉTODO: POST
+[2026-02-18 20:34:10] HEADERS: {"Cookie":"user_fingerprint=huella_0460388effc11ada8f8e0c362a16cefe92724aeeb91c7263506c4fab1216ca1f; PHPSESSID=vitrj0i5ipo4sjekkru9kld4ot","Priority":"u=1, i","Accept-Language":"es-419,es;q=0.9","Accept-Encoding":"gzip, deflate, br, zstd","Referer":"https:\/\/tlaxcalitabeach.com\/rating\/buscador.php","Sec-Fetch-Dest":"empty","Sec-Fetch-Mode":"cors","Sec-Fetch-Site":"same-origin","Origin":"https:\/\/tlaxcalitabeach.com","Accept":"*\/*","Sec-Ch-Ua-Mobile":"?0","Content-Type":"application\/x-www-form-urlencoded","Sec-Ch-Ua":"\"Not:A-Brand\";v=\"99\", \"Google Chrome\";v=\"145\", \"Chromium\";v=\"145\"","User-Agent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/145.0.0.0 Safari\/537.36","Sec-Ch-Ua-Platform":"\"Windows\"","Content-Length":"118","Connection":"close","X-Accel-Internal":"\/internal-nginx-static-location","X-Real-Ip":"189.167.15.43","Host":"tlaxcalitabeach.com"}
+[2026-02-18 20:34:10] CONTENT_TYPE: application/x-www-form-urlencoded
+[2026-02-18 20:34:10] POST RAW: trackUri=spotify%3Atrack%3A62PaSfnXSMyLshYJrlTuL3&trackName=Hello&trackArtist=Adele&userEmail=Dante%40mxtopografia.com
+[2026-02-18 20:34:10] POST ARRAY: {"trackUri":"spotify:track:62PaSfnXSMyLshYJrlTuL3","trackName":"Hello","trackArtist":"Adele","userEmail":"Dante@mxtopografia.com"}
+[2026-02-18 20:34:10] SESSION ID: vitrj0i5ipo4sjekkru9kld4ot
+[2026-02-18 20:34:10] SESSION DATA: {"user_email":"usuario@directo.com","ubicacion_data":{"lat":19.278573681255462,"lon":-98.2361252654307,"distancia":20.16968478174814,"fecha":"2026-02-18 19:02:13"},"random_mode_active":false,"random_playlist_uri":null,"random_mode_started":null,"ubicacion_ok":true,"ubicacion_timestamp":1771441333}
+[2026-02-18 20:34:10] DATOS EXTRAÍDOS: | {"trackUri":"spotify:track:62PaSfnXSMyLshYJrlTuL3","trackName":"Hello","trackArtist":"Adele","userEmail":"Dante@mxtopografia.com"}
+[2026-02-18 20:34:10] BD CONECTADA OK
+[2026-02-18 20:34:10] === INICIANDO PROCESAMIENTO ===
+[2026-02-18 20:34:10] 🔑 Solicitando token...
+[2026-02-18 20:34:10] 🔑 Token respuesta - Código: 200
+[2026-02-18 20:34:10] 🔑 Token obtenido OK
+[2026-02-18 20:34:10] 📋 Playlist - Código: 201
+[2026-02-18 20:34:10] ✅ BD ID: 1000
+[2026-02-18 20:34:10] RESPUESTA ENVIADA: {"success":true,"message":"Canci\u00f3n agregada correctamente","diagnostico":{"datos_recibidos":{"trackUri":"spotify:track:62PaSfnXSMyLshYJrlTuL3","trackName":"Hello","trackArtist":"Adele","userEmail":"Dante@mxtopografia.com"},"session_id":"vitrj0i5ipo4sjekkru9kld4ot","user_email_session":"usuario@directo.com","timestamp":"2026-02-18 20:34:10"},"data":{"id":1000,"nombre":"Hello","artista":"Adele","hora":"20:34:10","fecha":"2026-02-18"}}
+[2026-02-18 20:39:41] ========== INICIO PETICIÓN ==========
+[2026-02-18 20:39:41] MÉTODO: POST
+[2026-02-18 20:39:41] HEADERS: {"Cookie":"user_fingerprint=huella_0460388effc11ada8f8e0c362a16cefe92724aeeb91c7263506c4fab1216ca1f; PHPSESSID=vitrj0i5ipo4sjekkru9kld4ot","Priority":"u=1, i","Accept-Language":"es-419,es;q=0.9","Accept-Encoding":"gzip, deflate, br, zstd","Referer":"https:\/\/tlaxcalitabeach.com\/rating\/buscador.php","Sec-Fetch-Dest":"empty","Sec-Fetch-Mode":"cors","Sec-Fetch-Site":"same-origin","Origin":"https:\/\/tlaxcalitabeach.com","Accept":"*\/*","Sec-Ch-Ua-Mobile":"?0","Content-Type":"application\/x-www-form-urlencoded","Sec-Ch-Ua":"\"Not:A-Brand\";v=\"99\", \"Google Chrome\";v=\"145\", \"Chromium\";v=\"145\"","User-Agent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/145.0.0.0 Safari\/537.36","Sec-Ch-Ua-Platform":"\"Windows\"","Content-Length":"149","Connection":"close","X-Accel-Internal":"\/internal-nginx-static-location","X-Real-Ip":"189.167.15.43","Host":"tlaxcalitabeach.com"}
+[2026-02-18 20:39:41] CONTENT_TYPE: application/x-www-form-urlencoded
+[2026-02-18 20:39:41] POST RAW: trackUri=spotify%3Atrack%3A0lbDzTINTToToBpkrnQT2t&trackName=UNA+CERVEZA&trackArtist=Fuerza+Regida%2C+Manuel+Turizo&userEmail=Dante%40mxtopografia.com
+[2026-02-18 20:39:41] POST ARRAY: {"trackUri":"spotify:track:0lbDzTINTToToBpkrnQT2t","trackName":"UNA CERVEZA","trackArtist":"Fuerza Regida, Manuel Turizo","userEmail":"Dante@mxtopografia.com"}
+[2026-02-18 20:39:41] SESSION ID: vitrj0i5ipo4sjekkru9kld4ot
+[2026-02-18 20:39:41] SESSION DATA: {"user_email":"Dante@mxtopografia.com","ubicacion_data":{"lat":19.278573681255462,"lon":-98.2361252654307,"distancia":20.16968478174814,"fecha":"2026-02-18 19:02:13"},"random_mode_active":false,"random_playlist_uri":null,"random_mode_started":null,"ubicacion_ok":true,"ubicacion_timestamp":1771441333}
+[2026-02-18 20:39:41] DATOS EXTRAÍDOS: | {"trackUri":"spotify:track:0lbDzTINTToToBpkrnQT2t","trackName":"UNA CERVEZA","trackArtist":"Fuerza Regida, Manuel Turizo","userEmail":"Dante@mxtopografia.com"}
+[2026-02-18 20:39:41] BD CONECTADA OK
+[2026-02-18 20:39:41] === INICIANDO PROCESAMIENTO ===
+[2026-02-18 20:39:41] 🔑 Solicitando token...
+[2026-02-18 20:39:41] 🔑 Token respuesta - Código: 200
+[2026-02-18 20:39:41] 🔑 Token obtenido OK
+[2026-02-18 20:39:41] 📋 Playlist - Código: 201
+[2026-02-18 20:39:41] ✅ BD ID: 1001
+[2026-02-18 20:39:41] RESPUESTA ENVIADA: {"success":true,"message":"Canci\u00f3n agregada correctamente","diagnostico":{"datos_recibidos":{"trackUri":"spotify:track:0lbDzTINTToToBpkrnQT2t","trackName":"UNA CERVEZA","trackArtist":"Fuerza Regida, Manuel Turizo","userEmail":"Dante@mxtopografia.com"},"session_id":"vitrj0i5ipo4sjekkru9kld4ot","user_email_session":"Dante@mxtopografia.com","timestamp":"2026-02-18 20:39:41"},"data":{"id":1001,"nombre":"UNA CERVEZA","artista":"Fuerza Regida, Manuel Turizo","hora":"20:39:42","fecha":"2026-02-18"}}

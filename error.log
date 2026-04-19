@@ -1,0 +1,1381 @@
+[22-Dec-2025 17:47:41 UTC] DEBUG - Lat usuario: 19.278542491938, Lon usuario: -98.236095449823
+[22-Dec-2025 17:47:41 UTC] DEBUG - Lat calita: 19.2962498, Lon calita: -98.1490871
+[22-Dec-2025 17:47:41 UTC] DEBUG - Distancia calculada: 9341.7277212971 metros
+[22-Dec-2025 17:47:41 UTC] DEBUG - Distancia máxima permitida: 30000 metros
+[22-Dec-2025 17:47:41 UTC] DEBUG - Ubicación VALIDADA. Usuario dentro del radio.
+[22-Dec-2025 17:49:11 UTC] DEBUG - Lat usuario: 19.278478933593, Lon usuario: -98.23597344922
+[22-Dec-2025 17:49:11 UTC] DEBUG - Lat calita: 19.2962498, Lon calita: -98.1490871
+[22-Dec-2025 17:49:11 UTC] DEBUG - Distancia calculada: 9330.7071900973 metros
+[22-Dec-2025 17:49:11 UTC] DEBUG - Distancia máxima permitida: 30000 metros
+[22-Dec-2025 17:49:11 UTC] DEBUG - Ubicación VALIDADA. Usuario dentro del radio.
+[22-Dec-2025 17:50:38 UTC] DEBUG - Lat usuario: 19.278717835917, Lon usuario: -98.236174971629
+[22-Dec-2025 17:50:38 UTC] DEBUG - Lat calita: 19.2962498, Lon calita: -98.1490871
+[22-Dec-2025 17:50:38 UTC] DEBUG - Distancia calculada: 9345.7952865446 metros
+[22-Dec-2025 17:50:38 UTC] DEBUG - Distancia máxima permitida: 30000 metros
+[22-Dec-2025 17:50:38 UTC] DEBUG - Ubicación VALIDADA. Usuario dentro del radio.
+[22-Dec-2025 17:54:39 UTC] DEBUG - Lat usuario: 19.278583796704, Lon usuario: -98.236126457717
+[22-Dec-2025 17:54:39 UTC] DEBUG - Lat calita: 19.2962498, Lon calita: -98.1490871
+[22-Dec-2025 17:54:39 UTC] DEBUG - Distancia calculada: 9343.9412763523 metros
+[22-Dec-2025 17:54:39 UTC] DEBUG - Distancia máxima permitida: 30000 metros
+[22-Dec-2025 17:54:39 UTC] DEBUG - Ubicación VALIDADA. Usuario dentro del radio.
+[22-Dec-2025 17:55:53 UTC] DEBUG - Lat usuario: 19.278464753251, Lon usuario: -98.236073231224
+[22-Dec-2025 17:55:53 UTC] DEBUG - Lat calita: 19.2962498, Lon calita: -98.1490871
+[22-Dec-2025 17:55:53 UTC] DEBUG - Distancia calculada: 9341.2765075872 metros
+[22-Dec-2025 17:55:53 UTC] DEBUG - Distancia máxima permitida: 30000 metros
+[22-Dec-2025 17:55:53 UTC] DEBUG - Ubicación VALIDADA. Usuario dentro del radio.
+[22-Dec-2025 18:23:08 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278638130398, Lon: -98.23611431268
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 1,000 m
+Distancia calculada: 3,313,073 m (3313.07 km)
+Resultado: DENEGADO
+[22-Dec-2025 18:23:51 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278638130398, Lon: -98.23611431268
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 1,000 m
+Distancia calculada: 3,313,073 m (3313.07 km)
+Resultado: DENEGADO
+[22-Dec-2025 18:25:17 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278700891026, Lon: -98.236155608463
+Configurado - Lat: 19.2062647, Lon: -98.2306427
+Radio permitido: 30,000 m
+Distancia calculada: 8,075 m (8.08 km)
+Resultado: PERMITIDO
+[22-Dec-2025 18:25:31 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278584741161, Lon: -98.236116020189
+Configurado - Lat: 19.2062647, Lon: -98.2306427
+Radio permitido: 30,000 m
+Distancia calculada: 8,062 m (8.06 km)
+Resultado: PERMITIDO
+[22-Dec-2025 18:26:29 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278571971876, Lon: -98.236111583552
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 1,000 m
+Distancia calculada: 3,313,079 m (3313.08 km)
+Resultado: DENEGADO
+[22-Dec-2025 18:27:29 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278478607037, Lon: -98.235973421485
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 1,000 m
+Distancia calculada: 3,313,078 m (3313.08 km)
+Resultado: DENEGADO
+[22-Dec-2025 18:27:34 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278478629576, Lon: -98.235973423631
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 1,000 m
+Distancia calculada: 3,313,078 m (3313.08 km)
+Resultado: DENEGADO
+[22-Dec-2025 18:27:35 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278478629576, Lon: -98.235973423631
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 1,000 m
+Distancia calculada: 3,313,078 m (3313.08 km)
+Resultado: DENEGADO
+[22-Dec-2025 18:27:36 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278478630579, Lon: -98.235973423726
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 1,000 m
+Distancia calculada: 3,313,078 m (3313.08 km)
+Resultado: DENEGADO
+[22-Dec-2025 18:27:38 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278478631396, Lon: -98.235973423804
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 1,000 m
+Distancia calculada: 3,313,078 m (3313.08 km)
+Resultado: DENEGADO
+[22-Dec-2025 18:27:39 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278478631397, Lon: -98.235973423804
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 1,000 m
+Distancia calculada: 3,313,078 m (3313.08 km)
+Resultado: DENEGADO
+[22-Dec-2025 18:27:40 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278478632163, Lon: -98.235973423877
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 1,000 m
+Distancia calculada: 3,313,078 m (3313.08 km)
+Resultado: DENEGADO
+[22-Dec-2025 18:27:41 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278478632163, Lon: -98.235973423877
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 1,000 m
+Distancia calculada: 3,313,078 m (3313.08 km)
+Resultado: DENEGADO
+[22-Dec-2025 18:27:42 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278478632736, Lon: -98.235973423931
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 1,000 m
+Distancia calculada: 3,313,078 m (3313.08 km)
+Resultado: DENEGADO
+[22-Dec-2025 18:27:43 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278478632736, Lon: -98.235973423931
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 1,000 m
+Distancia calculada: 3,313,078 m (3313.08 km)
+Resultado: DENEGADO
+[22-Dec-2025 18:43:04 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278530079887, Lon: -98.23609208572
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 1,000 m
+Distancia calculada: 3,313,081 m (3313.08 km)
+Resultado: DENEGADO
+[22-Dec-2025 18:43:09 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278530079887, Lon: -98.23609208572
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 1,000 m
+Distancia calculada: 3,313,081 m (3313.08 km)
+Resultado: DENEGADO
+[22-Dec-2025 18:43:14 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278530079887, Lon: -98.23609208572
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 1,000 m
+Distancia calculada: 3,313,081 m (3313.08 km)
+Resultado: DENEGADO
+[22-Dec-2025 18:43:20 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278561549518, Lon: -98.236103880651
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 1,000 m
+Distancia calculada: 3,313,079 m (3313.08 km)
+Resultado: DENEGADO
+[22-Dec-2025 18:43:22 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278561549518, Lon: -98.236103880651
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 1,000 m
+Distancia calculada: 3,313,079 m (3313.08 km)
+Resultado: DENEGADO
+[22-Dec-2025 18:43:23 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278561549518, Lon: -98.236103880651
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 1,000 m
+Distancia calculada: 3,313,079 m (3313.08 km)
+Resultado: DENEGADO
+[22-Dec-2025 18:43:24 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278561549518, Lon: -98.236103880651
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 1,000 m
+Distancia calculada: 3,313,079 m (3313.08 km)
+Resultado: DENEGADO
+[22-Dec-2025 18:43:26 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278561549518, Lon: -98.236103880651
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 1,000 m
+Distancia calculada: 3,313,079 m (3313.08 km)
+Resultado: DENEGADO
+[22-Dec-2025 18:43:27 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278561549518, Lon: -98.236103880651
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 1,000 m
+Distancia calculada: 3,313,079 m (3313.08 km)
+Resultado: DENEGADO
+[22-Dec-2025 18:43:28 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278561549518, Lon: -98.236103880651
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 1,000 m
+Distancia calculada: 3,313,079 m (3313.08 km)
+Resultado: DENEGADO
+[22-Dec-2025 18:43:29 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278561549518, Lon: -98.236103880651
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 1,000 m
+Distancia calculada: 3,313,079 m (3313.08 km)
+Resultado: DENEGADO
+[22-Dec-2025 18:43:30 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278561549518, Lon: -98.236103880651
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 1,000 m
+Distancia calculada: 3,313,079 m (3313.08 km)
+Resultado: DENEGADO
+[22-Dec-2025 18:43:34 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278565671627, Lon: -98.236105121237
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 1,000 m
+Distancia calculada: 3,313,079 m (3313.08 km)
+Resultado: DENEGADO
+[22-Dec-2025 18:45:37 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278736997957, Lon: -98.236163977529
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 1,000 m
+Distancia calculada: 3,313,068 m (3313.07 km)
+Resultado: DENEGADO
+[22-Dec-2025 18:45:49 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278736997957, Lon: -98.236163977529
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 1,000 m
+Distancia calculada: 3,313,068 m (3313.07 km)
+Resultado: DENEGADO
+[22-Dec-2025 18:45:57 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278736997957, Lon: -98.236163977529
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 1,000 m
+Distancia calculada: 3,313,068 m (3313.07 km)
+Resultado: DENEGADO
+[22-Dec-2025 18:45:59 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278736997957, Lon: -98.236163977529
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 1,000 m
+Distancia calculada: 3,313,068 m (3313.07 km)
+Resultado: DENEGADO
+[22-Dec-2025 18:46:02 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278617788528, Lon: -98.236120810311
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 1,000 m
+Distancia calculada: 3,313,075 m (3313.08 km)
+Resultado: DENEGADO
+[22-Dec-2025 18:46:03 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278617788528, Lon: -98.236120810311
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 1,000 m
+Distancia calculada: 3,313,075 m (3313.08 km)
+Resultado: DENEGADO
+[22-Dec-2025 18:46:04 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278617788528, Lon: -98.236120810311
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 1,000 m
+Distancia calculada: 3,313,075 m (3313.08 km)
+Resultado: DENEGADO
+[22-Dec-2025 18:46:05 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278617788528, Lon: -98.236120810311
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 1,000 m
+Distancia calculada: 3,313,075 m (3313.08 km)
+Resultado: DENEGADO
+[22-Dec-2025 18:46:07 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278617788528, Lon: -98.236120810311
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 1,000 m
+Distancia calculada: 3,313,075 m (3313.08 km)
+Resultado: DENEGADO
+[22-Dec-2025 18:46:08 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278617788528, Lon: -98.236120810311
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 1,000 m
+Distancia calculada: 3,313,075 m (3313.08 km)
+Resultado: DENEGADO
+[22-Dec-2025 18:46:09 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278617788528, Lon: -98.236120810311
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 1,000 m
+Distancia calculada: 3,313,075 m (3313.08 km)
+Resultado: DENEGADO
+[22-Dec-2025 18:46:10 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278617788528, Lon: -98.236120810311
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 1,000 m
+Distancia calculada: 3,313,075 m (3313.08 km)
+Resultado: DENEGADO
+[22-Dec-2025 18:46:11 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278617788528, Lon: -98.236120810311
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 1,000 m
+Distancia calculada: 3,313,075 m (3313.08 km)
+Resultado: DENEGADO
+[22-Dec-2025 18:46:17 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278615195361, Lon: -98.236118870026
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 1,000 m
+Distancia calculada: 3,313,076 m (3313.08 km)
+Resultado: DENEGADO
+[22-Dec-2025 18:46:18 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278615195361, Lon: -98.236118870026
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 1,000 m
+Distancia calculada: 3,313,076 m (3313.08 km)
+Resultado: DENEGADO
+[22-Dec-2025 18:46:20 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278615195361, Lon: -98.236118870026
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 1,000 m
+Distancia calculada: 3,313,076 m (3313.08 km)
+Resultado: DENEGADO
+[22-Dec-2025 18:46:21 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278615195361, Lon: -98.236118870026
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 1,000 m
+Distancia calculada: 3,313,076 m (3313.08 km)
+Resultado: DENEGADO
+[22-Dec-2025 18:46:22 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278615195361, Lon: -98.236118870026
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 1,000 m
+Distancia calculada: 3,313,076 m (3313.08 km)
+Resultado: DENEGADO
+[22-Dec-2025 18:46:23 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278615195361, Lon: -98.236118870026
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 1,000 m
+Distancia calculada: 3,313,076 m (3313.08 km)
+Resultado: DENEGADO
+[22-Dec-2025 18:46:24 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278615195361, Lon: -98.236118870026
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 1,000 m
+Distancia calculada: 3,313,076 m (3313.08 km)
+Resultado: DENEGADO
+[22-Dec-2025 18:46:25 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278615195361, Lon: -98.236118870026
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 1,000 m
+Distancia calculada: 3,313,076 m (3313.08 km)
+Resultado: DENEGADO
+[22-Dec-2025 18:46:27 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278615195361, Lon: -98.236118870026
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 1,000 m
+Distancia calculada: 3,313,076 m (3313.08 km)
+Resultado: DENEGADO
+[22-Dec-2025 18:46:30 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278560016695, Lon: -98.236102357826
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 1,000 m
+Distancia calculada: 3,313,079 m (3313.08 km)
+Resultado: DENEGADO
+[22-Dec-2025 18:46:32 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278560016695, Lon: -98.236102357826
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 1,000 m
+Distancia calculada: 3,313,079 m (3313.08 km)
+Resultado: DENEGADO
+[22-Dec-2025 18:48:02 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278605965305, Lon: -98.236122254133
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 1,000 m
+Distancia calculada: 3,313,077 m (3313.08 km)
+Resultado: DENEGADO
+[22-Dec-2025 18:49:32 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278518264453, Lon: -98.236099206729
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 1,000 m
+Distancia calculada: 3,313,083 m (3313.08 km)
+Resultado: DENEGADO
+[22-Dec-2025 18:49:39 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278518264453, Lon: -98.236099206729
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 1,000 m
+Distancia calculada: 3,313,083 m (3313.08 km)
+Resultado: DENEGADO
+[22-Dec-2025 18:50:01 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278488467696, Lon: -98.235917444491
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 1,000 m
+Distancia calculada: 3,313,073 m (3313.07 km)
+Resultado: DENEGADO
+[22-Dec-2025 18:50:03 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278488467696, Lon: -98.235917444491
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 1,000 m
+Distancia calculada: 3,313,073 m (3313.07 km)
+Resultado: DENEGADO
+[22-Dec-2025 18:50:05 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278488467696, Lon: -98.235917444491
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 1,000 m
+Distancia calculada: 3,313,073 m (3313.07 km)
+Resultado: DENEGADO
+[22-Dec-2025 18:50:06 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278488467696, Lon: -98.235917444491
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 1,000 m
+Distancia calculada: 3,313,073 m (3313.07 km)
+Resultado: DENEGADO
+[22-Dec-2025 18:50:07 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278488467696, Lon: -98.235917444491
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 1,000 m
+Distancia calculada: 3,313,073 m (3313.07 km)
+Resultado: DENEGADO
+[22-Dec-2025 18:50:08 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278488467696, Lon: -98.235917444491
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 1,000 m
+Distancia calculada: 3,313,073 m (3313.07 km)
+Resultado: DENEGADO
+[22-Dec-2025 18:50:09 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278488467696, Lon: -98.235917444491
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 1,000 m
+Distancia calculada: 3,313,073 m (3313.07 km)
+Resultado: DENEGADO
+[22-Dec-2025 18:50:14 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278488467696, Lon: -98.235917444491
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 1,000 m
+Distancia calculada: 3,313,073 m (3313.07 km)
+Resultado: DENEGADO
+[22-Dec-2025 18:50:15 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278488467696, Lon: -98.235917444491
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 1,000 m
+Distancia calculada: 3,313,073 m (3313.07 km)
+Resultado: DENEGADO
+[22-Dec-2025 18:50:16 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278488467696, Lon: -98.235917444491
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 1,000 m
+Distancia calculada: 3,313,073 m (3313.07 km)
+Resultado: DENEGADO
+[22-Dec-2025 18:50:16 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278488467696, Lon: -98.235917444491
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 1,000 m
+Distancia calculada: 3,313,073 m (3313.07 km)
+Resultado: DENEGADO
+[22-Dec-2025 18:50:17 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278488467696, Lon: -98.235917444491
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 1,000 m
+Distancia calculada: 3,313,073 m (3313.07 km)
+Resultado: DENEGADO
+[22-Dec-2025 18:50:18 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278488467696, Lon: -98.235917444491
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 1,000 m
+Distancia calculada: 3,313,073 m (3313.07 km)
+Resultado: DENEGADO
+[22-Dec-2025 18:59:09 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278511665074, Lon: -98.236085138231
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 1,000 m
+Distancia calculada: 3,313,082 m (3313.08 km)
+Resultado: DENEGADO
+[22-Dec-2025 19:05:49 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278478871784, Lon: -98.235973444057
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 1,000 m
+Distancia calculada: 3,313,078 m (3313.08 km)
+Resultado: DENEGADO
+[22-Dec-2025 19:05:50 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278478997926, Lon: -98.235973458682
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 1,000 m
+Distancia calculada: 3,313,078 m (3313.08 km)
+Resultado: DENEGADO
+[22-Dec-2025 19:05:51 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278478997932, Lon: -98.235973458683
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 1,000 m
+Distancia calculada: 3,313,078 m (3313.08 km)
+Resultado: DENEGADO
+[22-Dec-2025 19:05:52 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278478997935, Lon: -98.235973458683
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 1,000 m
+Distancia calculada: 3,313,078 m (3313.08 km)
+Resultado: DENEGADO
+[22-Dec-2025 19:05:53 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278478997935, Lon: -98.235973458683
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 1,000 m
+Distancia calculada: 3,313,078 m (3313.08 km)
+Resultado: DENEGADO
+[22-Dec-2025 19:08:53 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.27886767688, Lon: -98.236225921496
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 1,000 m
+Distancia calculada: 3,313,061 m (3313.06 km)
+Resultado: DENEGADO
+[22-Dec-2025 19:09:04 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.27886767688, Lon: -98.236225921496
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 1,000 m
+Distancia calculada: 3,313,061 m (3313.06 km)
+Resultado: DENEGADO
+[22-Dec-2025 19:09:27 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278710555769, Lon: -98.236170200374
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 1,000 m
+Distancia calculada: 3,313,071 m (3313.07 km)
+Resultado: DENEGADO
+[22-Dec-2025 19:15:11 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278611640303, Lon: -98.236132062044
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 1,000 m
+Distancia calculada: 3,313,077 m (3313.08 km)
+Resultado: DENEGADO
+[22-Dec-2025 19:16:35 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.27861319248, Lon: -98.236118930919
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 1,000 m
+Distancia calculada: 3,313,076 m (3313.08 km)
+Resultado: DENEGADO
+[22-Dec-2025 19:16:59 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278478698946, Lon: -98.235962572462
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 1,000 m
+Distancia calculada: 3,313,077 m (3313.08 km)
+Resultado: DENEGADO
+[22-Dec-2025 19:17:01 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.27847894465, Lon: -98.235966388401
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 1,000 m
+Distancia calculada: 3,313,077 m (3313.08 km)
+Resultado: DENEGADO
+[22-Dec-2025 19:17:02 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.27847894465, Lon: -98.235966388402
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 1,000 m
+Distancia calculada: 3,313,077 m (3313.08 km)
+Resultado: DENEGADO
+[22-Dec-2025 19:17:06 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.27847894465, Lon: -98.235966388402
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 1,000 m
+Distancia calculada: 3,313,077 m (3313.08 km)
+Resultado: DENEGADO
+[22-Dec-2025 19:17:10 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278478978292, Lon: -98.23596657978
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 1,000 m
+Distancia calculada: 3,313,077 m (3313.08 km)
+Resultado: DENEGADO
+[22-Dec-2025 19:17:14 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278478978292, Lon: -98.235966579781
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 1,000 m
+Distancia calculada: 3,313,077 m (3313.08 km)
+Resultado: DENEGADO
+[22-Dec-2025 19:19:55 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278479066414, Lon: -98.235967587562
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 1,000 m
+Distancia calculada: 3,313,077 m (3313.08 km)
+Resultado: DENEGADO
+[22-Dec-2025 19:19:59 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278488467696, Lon: -98.235917444491
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 1,000 m
+Distancia calculada: 3,313,073 m (3313.07 km)
+Resultado: DENEGADO
+[22-Dec-2025 19:20:10 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278488467696, Lon: -98.235917444491
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 1,000 m
+Distancia calculada: 3,313,073 m (3313.07 km)
+Resultado: DENEGADO
+[22-Dec-2025 19:26:06 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.2784157, Lon: -98.235973
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 1,000 m
+Distancia calculada: 3,313,083 m (3313.08 km)
+Resultado: DENEGADO
+[22-Dec-2025 19:29:07 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278533908802, Lon: -98.236088657487
+Configurado - Lat: 19.2062647, Lon: -98.2306427
+Radio permitido: 30,000 m
+Distancia calculada: 8,056 m (8.06 km)
+Resultado: PERMITIDO
+[22-Dec-2025 19:30:01 UTC] DEBUG - Email: hayelcuahutle23874@gmail.com, Última canción: 2025-12-20 00:14:37
+[22-Dec-2025 19:30:01 UTC] DEBUG - Timestamp: 1766189677, Ahora: 1766431801, Minutos: 4035
+[22-Dec-2025 19:32:47 UTC] DEBUG - Email: hayelcuahutle23874@gmail.com, Última canción: 2025-12-22 19:32:18
+[22-Dec-2025 19:32:47 UTC] DEBUG - Timestamp: 1766431938, Ahora: 1766431967, Minutos: 0
+[22-Dec-2025 19:33:02 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278401229647, Lon: -98.236054419778
+Configurado - Lat: 19.2062647, Lon: -98.2306427
+Radio permitido: 30,000 m
+Distancia calculada: 8,041 m (8.04 km)
+Resultado: PERMITIDO
+[22-Dec-2025 19:33:02 UTC] DEBUG - Email: hayelcuahutle23874@gmail.com, Última canción: 2025-12-22 19:32:18
+[22-Dec-2025 19:33:02 UTC] DEBUG - Timestamp: 1766431938, Ahora: 1766431982, Minutos: 1
+[22-Dec-2025 19:33:51 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.27844941627, Lon: -98.236066555709
+Configurado - Lat: 19.2062647, Lon: -98.2306427
+Radio permitido: 30,000 m
+Distancia calculada: 8,047 m (8.05 km)
+Resultado: PERMITIDO
+[22-Dec-2025 19:33:51 UTC] DEBUG - Email: hayelcuahutle23874@gmail.com, Última canción: 2025-12-22 19:32:18
+[22-Dec-2025 19:33:51 UTC] DEBUG - Timestamp: 1766431938, Ahora: 1766432031, Minutos: 2
+[22-Dec-2025 19:35:15 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278488467696, Lon: -98.235917444491
+Configurado - Lat: 19.2062647, Lon: -98.2306427
+Radio permitido: 30,000 m
+Distancia calculada: 8,050 m (8.05 km)
+Resultado: PERMITIDO
+[22-Dec-2025 19:35:15 UTC] DEBUG - Email: hayelcuahutle23874@gmail.com, Última canción: 2025-12-22 19:32:18
+[22-Dec-2025 19:35:15 UTC] DEBUG - Timestamp: 1766431938, Ahora: 1766432115, Minutos: 3
+[22-Dec-2025 19:44:30 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.27855284633, Lon: -98.236110240422
+Configurado - Lat: 19.2062647, Lon: -98.2306427
+Radio permitido: 30,000 m
+Distancia calculada: 8,059 m (8.06 km)
+Resultado: PERMITIDO
+[22-Dec-2025 19:45:02 UTC] DEBUG - Email: hayelcuahutle23874@gmail.com, Última canción: 2025-12-22 19:32:18
+[22-Dec-2025 19:45:02 UTC] DEBUG - Timestamp: 1766431938, Ahora: 1766432702, Minutos: 13
+[22-Dec-2025 19:49:44 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278467068605, Lon: -98.236002187991
+Configurado - Lat: 19.2062647, Lon: -98.2306427
+Radio permitido: 30,000 m
+Distancia calculada: 8,048 m (8.05 km)
+Resultado: PERMITIDO
+[22-Dec-2025 19:51:02 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278469201415, Lon: -98.235980472619
+Configurado - Lat: 19.2062647, Lon: -98.2306427
+Radio permitido: 30,000 m
+Distancia calculada: 8,048 m (8.05 km)
+Resultado: PERMITIDO
+[22-Dec-2025 19:52:02 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278479192831, Lon: -98.235969000664
+Configurado - Lat: 19.2062647, Lon: -98.2306427
+Radio permitido: 30,000 m
+Distancia calculada: 8,049 m (8.05 km)
+Resultado: PERMITIDO
+[22-Dec-2025 19:54:25 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278465557949, Lon: -98.236073553251
+Configurado - Lat: 19.2062647, Lon: -98.2306427
+Radio permitido: 30,000 m
+Distancia calculada: 8,049 m (8.05 km)
+Resultado: PERMITIDO
+[22-Dec-2025 19:58:53 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278585389876, Lon: -98.236124749025
+Configurado - Lat: 19.2062647, Lon: -98.2306427
+Radio permitido: 30,000 m
+Distancia calculada: 8,062 m (8.06 km)
+Resultado: PERMITIDO
+[22-Dec-2025 20:01:06 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278784697863, Lon: -98.236206110051
+Configurado - Lat: 19.2962498, Lon: -98.1490871
+Radio permitido: 30,000 m
+Distancia calculada: 9,347 m (9.35 km)
+Resultado: PERMITIDO
+[22-Dec-2025 20:03:18 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278650443409, Lon: -98.236146738634
+Configurado - Lat: 19.2962498, Lon: -98.1490871
+Radio permitido: 30,000 m
+Distancia calculada: 9,344 m (9.34 km)
+Resultado: PERMITIDO
+[22-Dec-2025 20:05:19 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278761723076, Lon: -98.23616704469
+Configurado - Lat: 19.2962498, Lon: -98.1490871
+Radio permitido: 30,000 m
+Distancia calculada: 9,344 m (9.34 km)
+Resultado: PERMITIDO
+[22-Dec-2025 20:06:22 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278745773375, Lon: -98.236161861472
+Configurado - Lat: 19.2962498, Lon: -98.1490871
+Radio permitido: 30,000 m
+Distancia calculada: 9,344 m (9.34 km)
+Resultado: PERMITIDO
+[22-Dec-2025 20:23:31 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278651923197, Lon: -98.23614129319
+Configurado - Lat: 19.0869, Lon: -98.4046
+Radio permitido: 30,000 m
+Distancia calculada: 27,706 m (27.71 km)
+Resultado: PERMITIDO
+[22-Dec-2025 20:42:33 UTC] DEBUG - Lat usuario: 19.278610744427, Lon usuario: -98.236129215954
+[22-Dec-2025 20:42:33 UTC] DEBUG - Lat calita: 19.0869, Lon calita: -98.4046
+[22-Dec-2025 20:42:33 UTC] DEBUG - Distancia calculada: 27703.169847665 metros
+[22-Dec-2025 20:42:33 UTC] DEBUG - Distancia máxima permitida: 30000 metros
+[22-Dec-2025 20:42:33 UTC] DEBUG - Ubicación VALIDADA. Usuario dentro del radio.
+[22-Dec-2025 20:51:14 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278688687576, Lon: -98.236149740487
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 30,000 m
+Distancia calculada: 3,313,071 m (3313.07 km)
+Resultado: DENEGADO
+[22-Dec-2025 20:51:41 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278677684647, Lon: -98.236144001795
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 30,000 m
+Distancia calculada: 3,313,072 m (3313.07 km)
+Resultado: DENEGADO
+[22-Dec-2025 20:51:57 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278677684647, Lon: -98.236144001795
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 30,000 m
+Distancia calculada: 3,313,072 m (3313.07 km)
+Resultado: DENEGADO
+[22-Dec-2025 20:52:46 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278587257085, Lon: -98.23611370091
+Configurado - Lat: 19.2062647, Lon: -98.2306427
+Radio permitido: 30,000 m
+Distancia calculada: 8,062 m (8.06 km)
+Resultado: PERMITIDO
+[22-Dec-2025 20:54:07 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.27854099245, Lon: -98.236092263837
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 30,000 m
+Distancia calculada: 3,313,080 m (3313.08 km)
+Resultado: DENEGADO
+[22-Dec-2025 20:56:41 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278804264188, Lon: -98.236193747618
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 30,000 m
+Distancia calculada: 3,313,064 m (3313.06 km)
+Resultado: DENEGADO
+[22-Dec-2025 20:57:49 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.27878383472, Lon: -98.236186520097
+Configurado - Lat: 19.2062647, Lon: -98.2306427
+Radio permitido: 30,000 m
+Distancia calculada: 8,085 m (8.08 km)
+Resultado: PERMITIDO
+[22-Dec-2025 20:59:03 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.27877371428, Lon: -98.236186161852
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 30,000 m
+Distancia calculada: 3,313,066 m (3313.07 km)
+Resultado: DENEGADO
+[22-Dec-2025 21:01:54 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278623227431, Lon: -98.236135872366
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 30,000 m
+Distancia calculada: 3,313,076 m (3313.08 km)
+Resultado: DENEGADO
+[22-Dec-2025 21:06:38 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278470424265, Lon: -98.23597052892
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 30,000 m
+Distancia calculada: 3,313,078 m (3313.08 km)
+Resultado: DENEGADO
+[22-Dec-2025 21:06:42 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278470293498, Lon: -98.235970509075
+Configurado - Lat: 40.7128, Lon: -74.006
+Radio permitido: 30,000 m
+Distancia calculada: 3,313,078 m (3313.08 km)
+Resultado: DENEGADO
+[22-Dec-2025 21:07:58 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278470293498, Lon: -98.235970509075
+Configurado - Lat: 19.2782779, Lon: -98.236007
+Radio permitido: 200 m
+Distancia calculada: 22 m (0.02 km)
+Resultado: PERMITIDO
+[22-Dec-2025 21:09:04 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278470133264, Lon: -98.235970484759
+Configurado - Lat: 19.2782779, Lon: -98.236007
+Radio permitido: 200 m
+Distancia calculada: 22 m (0.02 km)
+Resultado: PERMITIDO
+[22-Dec-2025 21:10:13 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278470296682, Lon: -98.235970509559
+Configurado - Lat: 19.2782779, Lon: -98.236007
+Radio permitido: 200 m
+Distancia calculada: 22 m (0.02 km)
+Resultado: PERMITIDO
+[22-Dec-2025 21:13:50 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.1995566, Lon: -98.2387229
+Configurado - Lat: 19.2782779, Lon: -98.236007
+Radio permitido: 200 m
+Distancia calculada: 8,758 m (8.76 km)
+Resultado: DENEGADO
+[22-Dec-2025 21:14:04 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.1995566, Lon: -98.2387229
+Configurado - Lat: 19.2782779, Lon: -98.236007
+Radio permitido: 200 m
+Distancia calculada: 8,758 m (8.76 km)
+Resultado: DENEGADO
+[22-Dec-2025 21:14:23 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.2784682, Lon: -98.2359591
+Configurado - Lat: 19.2782779, Lon: -98.236007
+Radio permitido: 200 m
+Distancia calculada: 22 m (0.02 km)
+Resultado: PERMITIDO
+[22-Dec-2025 21:14:27 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278488467696, Lon: -98.235917444491
+Configurado - Lat: 19.2782779, Lon: -98.236007
+Radio permitido: 200 m
+Distancia calculada: 25 m (0.03 km)
+Resultado: PERMITIDO
+[22-Dec-2025 21:25:00 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.2787096, Lon: -98.2361566
+Configurado - Lat: 19.2782779, Lon: -98.236007
+Radio permitido: 200 m
+Distancia calculada: 51 m (0.05 km)
+Resultado: PERMITIDO
+[22-Dec-2025 21:27:59 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.27847054723, Lon: -98.23597054758
+Configurado - Lat: 19.2782779, Lon: -98.236007
+Radio permitido: 200 m
+Distancia calculada: 22 m (0.02 km)
+Resultado: PERMITIDO
+[22-Dec-2025 21:30:21 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278470296946, Lon: -98.235970509599
+Configurado - Lat: 19.2782779, Lon: -98.236007
+Radio permitido: 200 m
+Distancia calculada: 22 m (0.02 km)
+Resultado: PERMITIDO
+[22-Dec-2025 21:32:09 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.278470133712, Lon: -98.235970484828
+Configurado - Lat: 19.2782779, Lon: -98.236007
+Radio permitido: 200 m
+Distancia calculada: 22 m (0.02 km)
+Resultado: PERMITIDO
+[22-Dec-2025 21:32:21 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.27847010862, Lon: -98.23597048102
+Configurado - Lat: 19.2782779, Lon: -98.236007
+Radio permitido: 200 m
+Distancia calculada: 22 m (0.02 km)
+Resultado: PERMITIDO
+[22-Dec-2025 23:29:43 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.295649, Lon: -98.1485275
+Configurado - Lat: 19.2782779, Lon: -98.236007
+Radio permitido: 200 m
+Distancia calculada: 9,382 m (9.38 km)
+Resultado: DENEGADO
+[22-Dec-2025 23:31:46 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.295683, Lon: -98.148452
+Configurado - Lat: 19.2962498, Lon: 98.1490871
+Radio permitido: 200 m
+Distancia calculada: 15,370,365 m (15370.37 km)
+Resultado: DENEGADO
+[22-Dec-2025 23:32:10 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.295683, Lon: -98.148452
+Configurado - Lat: 19.2962498, Lon: 98.1490871
+Radio permitido: 200 m
+Distancia calculada: 15,370,365 m (15370.37 km)
+Resultado: DENEGADO
+[22-Dec-2025 23:32:20 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.295683, Lon: -98.148452
+Configurado - Lat: 19.2962498, Lon: 98.1490871
+Radio permitido: 200 m
+Distancia calculada: 15,370,365 m (15370.37 km)
+Resultado: DENEGADO
+[22-Dec-2025 23:35:01 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.295683, Lon: -98.148452
+Configurado - Lat: 19.2962498, Lon: -98.1490871
+Radio permitido: 200 m
+Distancia calculada: 92 m (0.09 km)
+Resultado: PERMITIDO
+[22-Dec-2025 23:35:22 UTC] DEBUG - Email: hayelcuahutle23874@gmail.com, Última canción: 2025-12-22 19:32:18
+[22-Dec-2025 23:35:22 UTC] DEBUG - Timestamp: 1766431938, Ahora: 1766446522, Minutos: 243
+[22-Dec-2025 23:36:06 UTC] DEBUG - Email: hayelcuahutle23874@gmail.com, Última canción: 2025-12-22 19:32:18
+[22-Dec-2025 23:36:06 UTC] DEBUG - Timestamp: 1766431938, Ahora: 1766446566, Minutos: 244
+[22-Dec-2025 23:37:55 UTC] DEBUG - Email: hayelcuahutle23874@gmail.com, Última canción: 2025-12-22 19:32:18
+[22-Dec-2025 23:37:55 UTC] DEBUG - Timestamp: 1766431938, Ahora: 1766446675, Minutos: 246
+[22-Dec-2025 23:38:02 UTC] DEBUG - Email: hayelcuahutle23874@gmail.com, Última canción: 2025-12-22 19:32:18
+[22-Dec-2025 23:38:02 UTC] DEBUG - Timestamp: 1766431938, Ahora: 1766446682, Minutos: 246
+[22-Dec-2025 23:41:16 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.295649, Lon: -98.1485275
+Configurado - Lat: 19.2962498, Lon: -98.1490871
+Radio permitido: 200 m
+Distancia calculada: 89 m (0.09 km)
+Resultado: PERMITIDO
+[22-Dec-2025 23:53:08 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.295683, Lon: -98.148452
+Configurado - Lat: 19.2962498, Lon: -98.1490871
+Radio permitido: 200 m
+Distancia calculada: 92 m (0.09 km)
+Resultado: PERMITIDO
+[22-Dec-2025 23:54:41 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.296124831132, Lon: -98.149092773093
+Configurado - Lat: 19.2962498, Lon: -98.1490871
+Radio permitido: 200 m
+Distancia calculada: 14 m (0.01 km)
+Resultado: PERMITIDO
+[22-Dec-2025 23:55:55 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.296056426821, Lon: -98.149047001116
+Configurado - Lat: 19.2962498, Lon: -98.1490871
+Radio permitido: 200 m
+Distancia calculada: 22 m (0.02 km)
+Resultado: PERMITIDO
+[22-Dec-2025 23:58:00 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.295649, Lon: -98.1485275
+Configurado - Lat: 19.2962498, Lon: -98.1490871
+Radio permitido: 200 m
+Distancia calculada: 89 m (0.09 km)
+Resultado: PERMITIDO
+[23-Dec-2025 00:14:56 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.295649, Lon: -98.1485275
+Configurado - Lat: 19.2962498, Lon: -98.1490871
+Radio permitido: 200 m
+Distancia calculada: 89 m (0.09 km)
+Resultado: PERMITIDO
+[23-Dec-2025 00:15:36 UTC] DEBUG - Email: hayelcuahutle23874@gmail.com, Última canción: 2025-12-22 19:32:18
+[23-Dec-2025 00:15:36 UTC] DEBUG - Timestamp: 1766431938, Ahora: 1766448936, Minutos: 283
+[23-Dec-2025 00:18:31 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.295683, Lon: -98.148452
+Configurado - Lat: 19.2962498, Lon: -98.1490871
+Radio permitido: 200 m
+Distancia calculada: 92 m (0.09 km)
+Resultado: PERMITIDO
+[23-Dec-2025 00:20:35 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.295649, Lon: -98.1485275
+Configurado - Lat: 19.2962498, Lon: -98.1490871
+Radio permitido: 200 m
+Distancia calculada: 89 m (0.09 km)
+Resultado: PERMITIDO
+[23-Dec-2025 00:31:51 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.295683, Lon: -98.148452
+Configurado - Lat: 19.2962498, Lon: -98.1490871
+Radio permitido: 200 m
+Distancia calculada: 92 m (0.09 km)
+Resultado: PERMITIDO
+[23-Dec-2025 00:32:00 UTC] PHPMailer no encontrado en: /var/www/vhosts/tlaxcalitabeach.com/httpdocs/rating/PHPMailer/src/PHPMailer.php
+[23-Dec-2025 00:34:08 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.295649, Lon: -98.1485275
+Configurado - Lat: 19.2962498, Lon: -98.1490871
+Radio permitido: 200 m
+Distancia calculada: 89 m (0.09 km)
+Resultado: PERMITIDO
+[23-Dec-2025 00:34:08 UTC] DEBUG - Email: hayelcuahutle23874@gmail.com, Última canción: 2025-12-22 19:32:18
+[23-Dec-2025 00:34:08 UTC] DEBUG - Timestamp: 1766431938, Ahora: 1766450048, Minutos: 302
+[23-Dec-2025 00:34:33 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.295649, Lon: -98.1485275
+Configurado - Lat: 19.2962498, Lon: -98.1490871
+Radio permitido: 200 m
+Distancia calculada: 89 m (0.09 km)
+Resultado: PERMITIDO
+[23-Dec-2025 00:43:17 UTC] DEBUG - Email: hayelcuahutle23874@gmail.com, Última canción: 2025-12-22 19:32:18
+[23-Dec-2025 00:43:17 UTC] DEBUG - Timestamp: 1766431938, Ahora: 1766450597, Minutos: 311
+[23-Dec-2025 00:49:11 UTC] DEBUG - Email: hayelcuahutle23874@gmail.com, Última canción: 2025-12-22 19:32:18
+[23-Dec-2025 00:49:11 UTC] DEBUG - Timestamp: 1766431938, Ahora: 1766450951, Minutos: 317
+[23-Dec-2025 00:49:18 UTC] DEBUG - Email: hayelcuahutle23874@gmail.com, Última canción: 2025-12-22 19:32:18
+[23-Dec-2025 00:49:18 UTC] DEBUG - Timestamp: 1766431938, Ahora: 1766450958, Minutos: 317
+[23-Dec-2025 00:50:12 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.295649, Lon: -98.1485275
+Configurado - Lat: 19.2962498, Lon: -98.1490871
+Radio permitido: 200 m
+Distancia calculada: 89 m (0.09 km)
+Resultado: PERMITIDO
+[23-Dec-2025 01:04:53 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.295649, Lon: -98.1485275
+Configurado - Lat: 19.2962498, Lon: -98.1490871
+Radio permitido: 200 m
+Distancia calculada: 89 m (0.09 km)
+Resultado: PERMITIDO
+[23-Dec-2025 01:05:50 UTC] DEBUG - Email: hayelcuahutle23874@gmail.com, Última canción: 2025-12-22 19:32:18
+[23-Dec-2025 01:05:50 UTC] DEBUG - Timestamp: 1766431938, Ahora: 1766451950, Minutos: 334
+[23-Dec-2025 01:06:15 UTC] DEBUG - Email: hayelcuahutle23874@gmail.com, Última canción: 2025-12-23 01:06:02
+[23-Dec-2025 01:06:15 UTC] DEBUG - Timestamp: 1766451962, Ahora: 1766451975, Minutos: 0
+[23-Dec-2025 01:23:30 UTC] VALIDACIÓN UBICACIÓN:
+Usuario - Lat: 19.295649, Lon: -98.1485275
+Configurado - Lat: 19.2962498, Lon: -98.1490871
+Radio permitido: 200 m
+Distancia calculada: 89 m (0.09 km)
+Resultado: PERMITIDO
+[12-Jan-2026 19:03:58 UTC] === INICIO SOLICITUD UBICACIÓN ===
+[12-Jan-2026 19:03:58 UTC] SESSION ID: ir7ibh2pm4ihk6qp8iuklir9kh
+[12-Jan-2026 19:03:58 UTC] POST data: Array
+(
+)
+
+[12-Jan-2026 19:03:58 UTC] SESSION data: Array
+(
+    [ubicacion_ok] => 1
+    [ubicacion_timestamp] => 1768241200
+    [ubicacion_data] => Array
+        (
+            [lat] => 19.2962498
+            [lon] => -98.1490871
+            [distancia] => 0
+            [fecha] => 2026-01-12 18:06:40
+            [geolocalizacion_desactivada] => 1
+        )
+
+    [user_email] => usuario@directo.com
+    [admin_logged_in] => 1
+    [admin_username] => Hayel
+    [admin_email] => hayel@gmail.com
+    [admin_rol] => admin
+    [admin_id] => 3
+    [admin_nombre] => Hayel
+    [necesita_verificacion_ubicacion] => 1
+    [config_ubicacion] => Array
+        (
+            [lat_calita] => 19.2222
+            [lon_calita] => -98.149
+            [distancia_maxima] => 200
+        )
+
+)
+
+[12-Jan-2026 19:03:58 UTC] Ubicación ya validada en sesión
+[12-Jan-2026 19:03:58 UTC] === UBICACIÓN VALIDADA - MOSTRANDO CONTENIDO ===
+[12-Jan-2026 19:04:32 UTC] === INICIO SOLICITUD UBICACIÓN ===
+[12-Jan-2026 19:04:32 UTC] SESSION ID: ir7ibh2pm4ihk6qp8iuklir9kh
+[12-Jan-2026 19:04:32 UTC] POST data: Array
+(
+)
+
+[12-Jan-2026 19:04:32 UTC] SESSION data: Array
+(
+    [ubicacion_ok] => 1
+    [ubicacion_timestamp] => 1768241200
+    [ubicacion_data] => Array
+        (
+            [lat] => 19.2962498
+            [lon] => -98.1490871
+            [distancia] => 0
+            [fecha] => 2026-01-12 18:06:40
+            [geolocalizacion_desactivada] => 1
+        )
+
+    [user_email] => usuario@directo.com
+    [admin_logged_in] => 1
+    [admin_username] => Hayel
+    [admin_email] => hayel@gmail.com
+    [admin_rol] => admin
+    [admin_id] => 3
+    [admin_nombre] => Hayel
+    [necesita_verificacion_ubicacion] => 1
+    [config_ubicacion] => Array
+        (
+            [lat_calita] => 19.2222
+            [lon_calita] => -98.149
+            [distancia_maxima] => 200
+        )
+
+)
+
+[12-Jan-2026 19:04:32 UTC] Ubicación ya validada en sesión
+[12-Jan-2026 19:04:32 UTC] === UBICACIÓN VALIDADA - MOSTRANDO CONTENIDO ===
+[12-Jan-2026 19:04:40 UTC] === INICIO SOLICITUD UBICACIÓN ===
+[12-Jan-2026 19:04:40 UTC] SESSION ID: ir7ibh2pm4ihk6qp8iuklir9kh
+[12-Jan-2026 19:04:40 UTC] POST data: Array
+(
+)
+
+[12-Jan-2026 19:04:40 UTC] SESSION data: Array
+(
+    [ubicacion_ok] => 1
+    [ubicacion_timestamp] => 1768241200
+    [ubicacion_data] => Array
+        (
+            [lat] => 19.2962498
+            [lon] => -98.1490871
+            [distancia] => 0
+            [fecha] => 2026-01-12 18:06:40
+            [geolocalizacion_desactivada] => 1
+        )
+
+    [user_email] => usuario@directo.com
+    [admin_logged_in] => 1
+    [admin_username] => Hayel
+    [admin_email] => hayel@gmail.com
+    [admin_rol] => admin
+    [admin_id] => 3
+    [admin_nombre] => Hayel
+    [necesita_verificacion_ubicacion] => 1
+    [config_ubicacion] => Array
+        (
+            [lat_calita] => 19.2222
+            [lon_calita] => -98.149
+            [distancia_maxima] => 200
+        )
+
+)
+
+[12-Jan-2026 19:04:40 UTC] Ubicación ya validada en sesión
+[12-Jan-2026 19:04:40 UTC] === UBICACIÓN VALIDADA - MOSTRANDO CONTENIDO ===
+[12-Jan-2026 19:04:48 UTC] === INICIO SOLICITUD UBICACIÓN ===
+[12-Jan-2026 19:04:48 UTC] SESSION ID: ir7ibh2pm4ihk6qp8iuklir9kh
+[12-Jan-2026 19:04:48 UTC] POST data: Array
+(
+)
+
+[12-Jan-2026 19:04:48 UTC] SESSION data: Array
+(
+    [ubicacion_ok] => 1
+    [ubicacion_timestamp] => 1768241200
+    [ubicacion_data] => Array
+        (
+            [lat] => 19.2962498
+            [lon] => -98.1490871
+            [distancia] => 0
+            [fecha] => 2026-01-12 18:06:40
+            [geolocalizacion_desactivada] => 1
+        )
+
+    [user_email] => usuario@directo.com
+    [admin_logged_in] => 1
+    [admin_username] => Hayel
+    [admin_email] => hayel@gmail.com
+    [admin_rol] => admin
+    [admin_id] => 3
+    [admin_nombre] => Hayel
+    [necesita_verificacion_ubicacion] => 1
+    [config_ubicacion] => Array
+        (
+            [lat_calita] => 19.2222
+            [lon_calita] => -98.149
+            [distancia_maxima] => 200
+        )
+
+)
+
+[12-Jan-2026 19:04:48 UTC] Ubicación ya validada en sesión
+[12-Jan-2026 19:04:48 UTC] === UBICACIÓN VALIDADA - MOSTRANDO CONTENIDO ===
+[12-Jan-2026 19:43:32 UTC] Configuración cargada: Array
+(
+    [lat_calita] => 19.2062478
+    [lon_calita] => -98.2332175
+    [distancia_maxima] => 200
+)
+
+[12-Jan-2026 19:43:32 UTC] Solicitando ubicación al usuario...
+[12-Jan-2026 19:43:42 UTC] Configuración cargada: Array
+(
+    [lat_calita] => 19.2062478
+    [lon_calita] => -98.2332175
+    [distancia_maxima] => 200
+)
+
+[12-Jan-2026 19:43:42 UTC] Validando ubicación usuario: 19.278595530445, -98.236132782816
+[12-Jan-2026 19:43:42 UTC] Distancia calculada: 8050.5202760097 m (8.05 km)
+[12-Jan-2026 19:43:42 UTC] Radio permitido: 200 m
+[12-Jan-2026 19:43:42 UTC] ❌ Ubicación DENEGADA - Fuera del área permitida
+[12-Jan-2026 19:43:51 UTC] Configuración cargada: Array
+(
+    [lat_calita] => 19.2062478
+    [lon_calita] => -98.2332175
+    [distancia_maxima] => 200
+)
+
+[12-Jan-2026 19:43:51 UTC] Solicitando ubicación al usuario...
+[12-Jan-2026 19:43:53 UTC] Configuración cargada: Array
+(
+    [lat_calita] => 19.2062478
+    [lon_calita] => -98.2332175
+    [distancia_maxima] => 200
+)
+
+[12-Jan-2026 19:43:53 UTC] Validando ubicación usuario: 19.278595530445, -98.236132782816
+[12-Jan-2026 19:43:53 UTC] Distancia calculada: 8050.5202760097 m (8.05 km)
+[12-Jan-2026 19:43:53 UTC] Radio permitido: 200 m
+[12-Jan-2026 19:43:53 UTC] ❌ Ubicación DENEGADA - Fuera del área permitida
+[12-Jan-2026 19:43:55 UTC] Configuración cargada: Array
+(
+    [lat_calita] => 19.2062478
+    [lon_calita] => -98.2332175
+    [distancia_maxima] => 200
+)
+
+[12-Jan-2026 19:43:55 UTC] Solicitando ubicación al usuario...
+[12-Jan-2026 19:43:56 UTC] Configuración cargada: Array
+(
+    [lat_calita] => 19.2062478
+    [lon_calita] => -98.2332175
+    [distancia_maxima] => 200
+)
+
+[12-Jan-2026 19:43:56 UTC] Validando ubicación usuario: 19.278595530445, -98.236132782816
+[12-Jan-2026 19:43:56 UTC] Distancia calculada: 8050.5202760097 m (8.05 km)
+[12-Jan-2026 19:43:56 UTC] Radio permitido: 200 m
+[12-Jan-2026 19:43:56 UTC] ❌ Ubicación DENEGADA - Fuera del área permitida
+[12-Jan-2026 19:44:46 UTC] Configuración cargada: Array
+(
+    [lat_calita] => 19.2062478
+    [lon_calita] => -98.2332175
+    [distancia_maxima] => 200
+)
+
+[12-Jan-2026 19:44:46 UTC] Solicitando ubicación al usuario...
+[12-Jan-2026 19:44:52 UTC] Configuración cargada: Array
+(
+    [lat_calita] => 19.2062478
+    [lon_calita] => -98.2332175
+    [distancia_maxima] => 200
+)
+
+[12-Jan-2026 19:44:52 UTC] Validando ubicación usuario: 19.278509843938, -98.236130754144
+[12-Jan-2026 19:44:52 UTC] Distancia calculada: 8040.9911666078 m (8.04 km)
+[12-Jan-2026 19:44:52 UTC] Radio permitido: 200 m
+[12-Jan-2026 19:44:52 UTC] ❌ Ubicación DENEGADA - Fuera del área permitida
+[12-Jan-2026 19:44:58 UTC] Configuración cargada: Array
+(
+    [lat_calita] => 19.2062478
+    [lon_calita] => -98.2332175
+    [distancia_maxima] => 200
+)
+
+[12-Jan-2026 19:44:58 UTC] Solicitando ubicación al usuario...
+[12-Jan-2026 19:44:59 UTC] Configuración cargada: Array
+(
+    [lat_calita] => 19.2062478
+    [lon_calita] => -98.2332175
+    [distancia_maxima] => 200
+)
+
+[12-Jan-2026 19:44:59 UTC] Validando ubicación usuario: 19.278509843938, -98.236130754144
+[12-Jan-2026 19:44:59 UTC] Distancia calculada: 8040.9911666078 m (8.04 km)
+[12-Jan-2026 19:44:59 UTC] Radio permitido: 200 m
+[12-Jan-2026 19:44:59 UTC] ❌ Ubicación DENEGADA - Fuera del área permitida
+[12-Jan-2026 19:47:02 UTC] Configuración cargada: Array
+(
+    [lat_calita] => 19.2062478
+    [lon_calita] => -98.2332175
+    [distancia_maxima] => 200
+)
+
+[12-Jan-2026 19:47:02 UTC] Solicitando ubicación al usuario...
+[12-Jan-2026 19:47:06 UTC] Configuración cargada: Array
+(
+    [lat_calita] => 19.2062478
+    [lon_calita] => -98.2332175
+    [distancia_maxima] => 200
+)
+
+[12-Jan-2026 19:47:06 UTC] Validando ubicación usuario: 19.278509843938, -98.236130754144
+[12-Jan-2026 19:47:06 UTC] Distancia calculada: 8040.9911666078 m (8.04 km)
+[12-Jan-2026 19:47:06 UTC] Radio permitido: 200 m
+[12-Jan-2026 19:47:06 UTC] ❌ Ubicación DENEGADA - Fuera del área permitida
+[12-Jan-2026 19:50:08 UTC] Configuración cargada: Array
+(
+    [lat_calita] => 19.2062478
+    [lon_calita] => -98.2332175
+    [distancia_maxima] => 200
+)
+
+[12-Jan-2026 19:50:08 UTC] Solicitando ubicación al usuario...
+[12-Jan-2026 19:50:10 UTC] Configuración cargada: Array
+(
+    [lat_calita] => 19.2062478
+    [lon_calita] => -98.2332175
+    [distancia_maxima] => 200
+)
+
+[12-Jan-2026 19:50:10 UTC] Validando ubicación usuario: 19.278509843938, -98.236130754144
+[12-Jan-2026 19:50:10 UTC] Distancia calculada: 8040.9911666078 m (8.04 km)
+[12-Jan-2026 19:50:10 UTC] Radio permitido: 200 m
+[12-Jan-2026 19:50:10 UTC] ❌ Ubicación DENEGADA - Fuera del área permitida
+[12-Jan-2026 19:53:59 UTC] Configuración cargada: Array
+(
+    [lat_calita] => 19.2062478
+    [lon_calita] => -98.2332175
+    [distancia_maxima] => 200
+)
+
+[12-Jan-2026 19:53:59 UTC] Solicitando ubicación al usuario...
+[12-Jan-2026 20:00:52 UTC] Configuración cargada: Array
+(
+    [lat_calita] => 19.2062647
+    [lon_calita] => -98.2306427
+    [distancia_maxima] => 200
+)
+
+[12-Jan-2026 20:00:52 UTC] Solicitando ubicación al usuario...
+[12-Jan-2026 20:00:56 UTC] Configuración cargada: Array
+(
+    [lat_calita] => 19.2062647
+    [lon_calita] => -98.2306427
+    [distancia_maxima] => 200
+)
+
+[12-Jan-2026 20:00:56 UTC] Validando ubicación usuario: 19.27832454551, -98.236063286263
+[12-Jan-2026 20:00:56 UTC] Distancia calculada: 8032.8716983568 m (8.03 km)
+[12-Jan-2026 20:00:56 UTC] Radio permitido: 200 m
+[12-Jan-2026 20:00:56 UTC] ❌ Ubicación DENEGADA - Fuera del área permitida
+[12-Jan-2026 20:03:09 UTC] Configuración cargada: Array
+(
+    [lat_calita] => 19.2784569
+    [lon_calita] => -98.2358948
+    [distancia_maxima] => 200
+)
+
+[12-Jan-2026 20:03:09 UTC] Solicitando ubicación al usuario...
+[12-Jan-2026 20:03:13 UTC] Configuración cargada: Array
+(
+    [lat_calita] => 19.2784569
+    [lon_calita] => -98.2358948
+    [distancia_maxima] => 200
+)
+
+[12-Jan-2026 20:03:13 UTC] Validando ubicación usuario: 19.27832454551, -98.236063286263
+[12-Jan-2026 20:03:13 UTC] Distancia calculada: 23.007128121387 m (0.02 km)
+[12-Jan-2026 20:03:13 UTC] Radio permitido: 200 m
+[12-Jan-2026 20:03:13 UTC] ✅ Ubicación VÁLIDA - Usuario dentro del área permitida
+[12-Jan-2026 20:03:13 UTC] Configuración cargada: Array
+(
+    [lat_calita] => 19.2784569
+    [lon_calita] => -98.2358948
+    [distancia_maxima] => 200
+)
+
+[12-Jan-2026 20:03:13 UTC] Ubicación ya validada en sesión (hace 0 segundos)
+[12-Jan-2026 20:03:13 UTC] ✅ Acceso permitido - Mostrando contenido principal
+[12-Jan-2026 20:05:54 UTC] Configuración cargada: Array
+(
+    [lat_calita] => 19.2784569
+    [lon_calita] => -98.2358948
+    [distancia_maxima] => 200
+)
+
+[12-Jan-2026 20:05:54 UTC] Solicitando ubicación al usuario...
+[12-Jan-2026 20:05:57 UTC] Configuración cargada: Array
+(
+    [lat_calita] => 19.2784569
+    [lon_calita] => -98.2358948
+    [distancia_maxima] => 200
+)
+
+[12-Jan-2026 20:05:57 UTC] Validando ubicación usuario: 19.27832454551, -98.236063286263
+[12-Jan-2026 20:05:57 UTC] Distancia calculada: 23.007128121387 m (0.02 km)
+[12-Jan-2026 20:05:57 UTC] Radio permitido: 200 m
+[12-Jan-2026 20:05:57 UTC] ✅ Ubicación VÁLIDA - Usuario dentro del área permitida
+[12-Jan-2026 20:05:57 UTC] Configuración cargada: Array
+(
+    [lat_calita] => 19.2784569
+    [lon_calita] => -98.2358948
+    [distancia_maxima] => 200
+)
+
+[12-Jan-2026 20:05:57 UTC] Ubicación ya validada en sesión (hace 0 segundos)
+[12-Jan-2026 20:05:57 UTC] ✅ Acceso permitido - Mostrando contenido principal
+[12-Jan-2026 20:06:19 UTC] Configuración cargada: Array
+(
+    [lat_calita] => 19.2784569
+    [lon_calita] => -98.2358948
+    [distancia_maxima] => 200
+)
+
+[12-Jan-2026 20:06:19 UTC] Ubicación ya validada en sesión (hace 22 segundos)
+[12-Jan-2026 20:06:19 UTC] ✅ Acceso permitido - Mostrando contenido principal
+[12-Jan-2026 20:06:25 UTC] Configuración cargada: Array
+(
+    [lat_calita] => 19.2784569
+    [lon_calita] => -98.2358948
+    [distancia_maxima] => 200
+)
+
+[12-Jan-2026 20:06:25 UTC] Ubicación ya validada en sesión (hace 28 segundos)
+[12-Jan-2026 20:06:25 UTC] ✅ Acceso permitido - Mostrando contenido principal
+[12-Jan-2026 20:09:22 UTC] Configuración cargada: Array
+(
+    [lat_calita] => 19.2784569
+    [lon_calita] => -98.2358948
+    [distancia_maxima] => 200
+)
+
+[12-Jan-2026 20:09:22 UTC] Ubicación ya validada en sesión (hace 369 segundos)
+[12-Jan-2026 20:09:22 UTC] ✅ Acceso permitido - Mostrando contenido principal
+[12-Jan-2026 20:09:32 UTC] Configuración cargada: Array
+(
+    [lat_calita] => 19.2784569
+    [lon_calita] => -98.2358948
+    [distancia_maxima] => 200
+)
+
+[12-Jan-2026 20:09:32 UTC] Ubicación ya validada en sesión (hace 379 segundos)
+[12-Jan-2026 20:09:32 UTC] ✅ Acceso permitido - Mostrando contenido principal
+[12-Jan-2026 20:09:33 UTC] Configuración cargada: Array
+(
+    [lat_calita] => 19.2784569
+    [lon_calita] => -98.2358948
+    [distancia_maxima] => 200
+)
+
+[12-Jan-2026 20:09:33 UTC] Ubicación ya validada en sesión (hace 380 segundos)
+[12-Jan-2026 20:09:33 UTC] ✅ Acceso permitido - Mostrando contenido principal
+[14-Jan-2026 15:26:24 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'dispositivo_id' in 'field list' in /var/www/vhosts/tlaxcalitabeach.com/httpdocs/rating/index.php:325
+Stack trace:
+#0 /var/www/vhosts/tlaxcalitabeach.com/httpdocs/rating/index.php(325): PDOStatement->execute()
+#1 /var/www/vhosts/tlaxcalitabeach.com/httpdocs/rating/index.php(271): obtenerHuellaUsuarioPDO()
+#2 /var/www/vhosts/tlaxcalitabeach.com/httpdocs/rating/index.php(577): verificarEstadoUsuarioMejorado()
+#3 {main}
+  thrown in /var/www/vhosts/tlaxcalitabeach.com/httpdocs/rating/index.php on line 325
+[14-Jan-2026 15:28:38 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'dispositivo_id' in 'field list' in /var/www/vhosts/tlaxcalitabeach.com/httpdocs/rating/index.php:325
+Stack trace:
+#0 /var/www/vhosts/tlaxcalitabeach.com/httpdocs/rating/index.php(325): PDOStatement->execute()
+#1 /var/www/vhosts/tlaxcalitabeach.com/httpdocs/rating/index.php(271): obtenerHuellaUsuarioPDO()
+#2 /var/www/vhosts/tlaxcalitabeach.com/httpdocs/rating/index.php(577): verificarEstadoUsuarioMejorado()
+#3 {main}
+  thrown in /var/www/vhosts/tlaxcalitabeach.com/httpdocs/rating/index.php on line 325
+[14-Jan-2026 15:28:51 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'dispositivo_id' in 'field list' in /var/www/vhosts/tlaxcalitabeach.com/httpdocs/rating/index.php:325
+Stack trace:
+#0 /var/www/vhosts/tlaxcalitabeach.com/httpdocs/rating/index.php(325): PDOStatement->execute()
+#1 /var/www/vhosts/tlaxcalitabeach.com/httpdocs/rating/index.php(271): obtenerHuellaUsuarioPDO()
+#2 /var/www/vhosts/tlaxcalitabeach.com/httpdocs/rating/index.php(577): verificarEstadoUsuarioMejorado()
+#3 {main}
+  thrown in /var/www/vhosts/tlaxcalitabeach.com/httpdocs/rating/index.php on line 325
+[20-Feb-2026 21:02:11 UTC] PHP Warning:  include(debug.php): Failed to open stream: No such file or directory in /var/www/vhosts/tlaxcalitabeach.com/httpdocs/rating/index.php on line 12
+[20-Feb-2026 21:02:11 UTC] PHP Warning:  include(): Failed opening 'debug.php' for inclusion (include_path='.:/opt/plesk/php/8.0/share/pear') in /var/www/vhosts/tlaxcalitabeach.com/httpdocs/rating/index.php on line 12
+[20-Feb-2026 21:02:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_log() in /var/www/vhosts/tlaxcalitabeach.com/httpdocs/rating/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /var/www/vhosts/tlaxcalitabeach.com/httpdocs/rating/index.php on line 14
